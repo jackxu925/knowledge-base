@@ -1,10 +1,21 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-04-25
+updated: 2026-04-26
 ---
 
 # 活动日志
+
+## 2026-04-26
+- [07:30] 摄取简报：AI 领域每日动态 2026-04-26（SpaceX/Cursor、OpenAI Codex 升级、AGIBOT 全栈方案、ATEC2026、中国具身智能市场）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-26.md
+- [07:30] 更新概念页面：AI Coding（新增巨头整合动态）、具身智能（新增部署元年/竞赛/市场数据）
+- [07:30] 创建实体页面：AGIBOT、OpenAI Codex、SpaceX、ATEC
+- [07:30] 更新实体页面：Cursor（新增融资与收购意向）
+- [00:17] 摄取文章：Anthropic Product Management Skills 全景解析
+- [00:17] 创建来源摘要：wiki/sources/anthropic-pm-skills-overview.md
+- [00:17] 创建概念页面：Capability-Oriented Abstraction、Agent Skill System、Product Management Frameworks
+- [00:17] 更新 VAULT-INDEX.md 仪表盘（原始资料 4 篇、来源摘要 4 篇、概念页面 18 篇）
 
 ## 2026-04-25
 - [15:16] 初始化知识库结构

@@ -7,6 +7,7 @@ first_seen: 2026-04-25
 sources:
   - [[summary-ai-daily-2026-04-25]]
   - [[summary-ai-builders-digest-2026-04-25]]
+  - [[summary-ai-daily-2026-04-26]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -31,9 +32,18 @@ status: active
 - Kimi K2.6（月之暗面）：开源免费，性能对标 GPT-5.4
 
 **工具层**：
-- Cursor：GPT-5.5 + Composer 2，支持 /multitask
-- Replit：一键导入 Vercel / Lovable 应用
+- Cursor：拟被 SpaceX 以 600 亿美元收购，此前估值 500 亿美元融资 20 亿
+- OpenAI Codex：重大升级——多智能体工作流、桌面控制、持久化记忆、90+ 插件
+- Claude Code（Anthropic）：当前推理能力和大型代码库处理优势明显
 - GitHub Copilot：生态整合
+- Replit：一键导入 Vercel / Lovable 应用
+
+## 最新动态 (2026-04-26)
+
+### 巨头整合信号
+- **SpaceX × Cursor**：600 亿美元收购期权或 100 亿美元深度合作，AI 编程工具从独立赛道进入巨头博弈
+- **OpenAI Codex 升级**：多 Agent + 桌面控制 + 记忆系统，正面挑战 Claude Code
+- 竞争格局重构中：SpaceX/OpenAI/Anthropic 形成三方势力
 
 ## 范式转变
 
@@ -42,6 +52,7 @@ AI Coding 正从"辅助补全"向"自主开发"演进：
 1. **代码生成** → **项目级开发**（Composer 2, /multitask）
 2. **单文件编辑** → **多任务并行**
 3. **人类驱动** → **Agent 自主执行**
+4. **独立工具** → **巨头生态入口**（SpaceX/Cursor, OpenAI/Codex）
 
 ## 与相关概念的关系
 

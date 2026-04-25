@@ -6,6 +6,7 @@ defined_by: []
 first_seen: 2026-04-25
 sources:
   - [[summary-ai-builders-digest-2026-04-25]]
+  - [[summary-ai-daily-2026-04-26]]
 related:
   - [[AI Coding]]
   - [[GPT-5.5]]
@@ -34,3 +35,14 @@ Cursor 代表了"AI-first IDE"的产品范式：
 - vs GitHub Copilot：更深度集成，更强项目级能力
 - vs Replit：本地优先 vs 云端优先
 - vs Windsurf：功能同质化竞争中保持领先
+
+## 重大事件 (2026-04)
+
+### 融资
+- 完成约 **20 亿美元**新一轮融资，估值达 **500 亿美元**（a16z/Thrive 领投，英伟达跟投）
+- 全球最高估值 AI 编程工具
+
+### SpaceX 收购意向
+- **2026-04-22**：SpaceX 获得以 **600 亿美元** 收购的权利
+- 或支付 **100 亿美元** 推进深度合作
+- 意味着 Cursor 可能从「中立平台」变为马斯克生态一部分
