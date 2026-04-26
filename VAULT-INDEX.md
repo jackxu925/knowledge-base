@@ -2,14 +2,14 @@
 
 ## 进行中项目
 - [x] 初始化知识库结构
-- [ ] 安装 Obsidian 插件
+- [x] 安装 Obsidian 插件
 - [x] 摄取第一批资料
 - [x] 摄取 AI 每日动态 + Builders Digest
 
 ## 统计
-- 原始资料：3 篇
-- 来源摘要：3 篇
-- 概念页面：15 篇
+- 原始资料：6 篇
+- 来源摘要：6 篇
+- 概念页面：26 篇
 - 实体页面：7 篇
 - 比较页面：0 篇
 - 综合页面：0 篇
@@ -21,3 +21,9 @@
 - 2026-04-25：摄取 AI 每日动态 + AI Builders Digest
 - 2026-04-25：创建 5 个概念页面（具身智能、AI Coding、Managed Agents、Jevons 悖论、后提示词世界）
 - 2026-04-25：创建 7 个实体页面（GPT-5.5、Cursor、月之暗面、自变量机器人、Sam Altman、Anthropic、Kimi K2.6）
+- 2026-04-26：摄取文章《Anthropic Product Management Skills 全景解析》
+- 2026-04-26：创建 3 个概念页面（Capability-Oriented Abstraction、Agent Skill System、Product Management Frameworks）
+- 2026-04-26：摄取文章《GBrain：让AI Agent拥有完美记忆的知识系统》
+- 2026-04-26：创建 4 个概念页面（Agent Memory、Knowledge Model、Hybrid Search、Compound Growth）
+- 2026-04-26：摄取文章《Building agents that reach production systems with MCP》
+- 2026-04-26：创建 4 个概念页面（MCP、Tool Search、Programmatic Tool Calling、Cloudflare MCP Server）

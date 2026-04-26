@@ -6,11 +6,13 @@ defined_by: [[Anthropic]]
 first_seen: 2026-04-25
 sources:
   - [[summary-ai-builders-digest-2026-04-25]]
+  - [[summary-ai-builders-digest-2026-04-26]]
 related:
   - [[AI-Native]]
   - [[Software-Factory]]
   - [[Closed-Loop]]
-status: emerging
+  - [[Post-Prompting World]]
+status: active
 ---
 
 # Managed Agents
@@ -38,3 +40,13 @@ Anthropic 提出的智能体架构范式，核心思想是将"大脑"与"手"解
 ## 意义
 
 Managed Agents 代表了从"单一智能体"向"分布式智能体系统"的架构演进，是 [[AI-Native]] 组织的基础设施层。
+
+## 2026-04-26 更新
+
+Anthropic 工程博客进一步阐述了设计哲学：
+- **Session 不是 Claude 的 context window**：长任务超出上下文窗口时，session 作为持久化的事件日志，通过 `getEvents()` 接口支持灵活的上下文查询
+- **安全边界**：凭证永远不进入 sandbox——Git token 在初始化时绑定，MCP OAuth 存于外部 vault
+- **多大脑多手**：每个大脑可连接多个执行环境，大脑间还可传递手
+- **核心隐喻**：如 OS 虚拟化硬件般虚拟化 Agent 组件，为"尚未构想出的程序"设计系统
+
+来源：[[summary-ai-builders-digest-2026-04-26]]

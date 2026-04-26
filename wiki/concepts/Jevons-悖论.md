@@ -6,6 +6,7 @@ defined_by: [[Aaron Levie]]
 first_seen: 2026-04-25
 sources:
   - [[summary-ai-builders-digest-2026-04-25]]
+  - [[summary-ai-builders-digest-2026-04-26]]
 related:
   - [[AI-Native]]
   - [[10x-Engineer]]
@@ -39,6 +40,17 @@ Aaron Levie（Box CEO）提出：
 AI 进步 → 更多招聘，而非更少。
 
 这与"AI 将取代人类工作"的流行叙事形成直接矛盾。
+
+## 2026-04-26 更新
+
+Aaron Levie 进一步阐述了 Jevons Paradox 的更多应用场景：
+- 营销团队做更高端视频 → 需要雇佣视频编辑
+- 小企业终于能负担工程师投资工程
+- **趋势随 AI 能力提升而增强**——AI 越好，能承担的任务越多，配套工作越多
+
+SAP CTO Philipp Herzig 也从企业软件角度佐证了类似观点：**AI 不会削减岗位，而是将每个人提升一个层级**（如财务人员从数据收集转向战略分析）。
+
+来源：[[summary-ai-builders-digest-2026-04-26]]
 
 ## 与知识库概念的关系
 

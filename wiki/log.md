@@ -7,6 +7,20 @@ updated: 2026-04-26
 # 活动日志
 
 ## 2026-04-26
+- [12:00] 摄取简报：AI Builders Digest 2026-04-26（14 builders, 28 tweets + 1 blog + 1 podcast，中英双语）
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-26.md
+- [12:00] 更新概念页面：Managed Agents（新增架构细节）、Jevons 悖论（新增 SAP 佐证）、后提示词世界（status→emerging）、AI Coding（新增 GPT-5.5 API 发布动态）
+- [12:00] 创建概念页面：RPT-1、Generative UI、Agent Mining
+- [12:00] 更新实体页面：Sam Altman
+- [12:00] 创建实体页面：SAP
+- [11:40] 摄取文章：GBrain：让AI Agent拥有完美记忆的知识系统
+- [11:40] 创建来源摘要：wiki/sources/gbrain-agent-memory-system.md
+- [11:40] 创建概念页面：Agent Memory、Knowledge Model、Hybrid Search、Compound Growth
+- [11:40] 更新 VAULT-INDEX.md 仪表盘（原始资料 6 篇、来源摘要 6 篇、概念页面 26 篇）
+- [08:40] 摄取文章：Building agents that reach production systems with MCP
+- [08:40] 创建来源摘要：wiki/sources/anthropic-building-agents-mcp.md
+- [08:40] 创建概念页面：MCP、Tool Search、Programmatic Tool Calling、Cloudflare MCP Server
+- [08:40] 更新 VAULT-INDEX.md 仪表盘（原始资料 5 篇、来源摘要 5 篇、概念页面 22 篇）
 - [07:30] 摄取简报：AI 领域每日动态 2026-04-26（SpaceX/Cursor、OpenAI Codex 升级、AGIBOT 全栈方案、ATEC2026、中国具身智能市场）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-26.md
 - [07:30] 更新概念页面：AI Coding（新增巨头整合动态）、具身智能（新增部署元年/竞赛/市场数据）

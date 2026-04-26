@@ -8,6 +8,7 @@ sources:
   - [[summary-ai-daily-2026-04-25]]
   - [[summary-ai-builders-digest-2026-04-25]]
   - [[summary-ai-daily-2026-04-26]]
+  - [[summary-ai-builders-digest-2026-04-26]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -39,6 +40,15 @@ status: active
 - Replit：一键导入 Vercel / Lovable 应用
 
 ## 最新动态 (2026-04-26)
+
+### GPT-5.5 API 正式发布
+- **Sam Altman 宣布** GPT-5.5 / GPT-5.5 Pro 已在 API 中可用（5000+ 赞）
+- **Cursor 设计师 Ryo Lu** 全面切换到 GPT-5.5 + Composer 2，称其为"智力、速度和成本的完美组合"（629 赞）
+- **Peter Yang demo**：GPT 5.5 + Codex 仅用 15 分钟做出 Star Fox 游戏，AI 自动测试自己创造的游戏
+
+### 工具动态
+- **Replit**：支持一键导入 Vercel / Lovable 应用（Amjad Masad）
+- **Cursor `/multitask`**：突破队列限制，多任务并行处理
 
 ### 巨头整合信号
 - **SpaceX × Cursor**：600 亿美元收购期权或 100 亿美元深度合作，AI 编程工具从独立赛道进入巨头博弈
