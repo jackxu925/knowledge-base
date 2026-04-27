@@ -10,6 +10,7 @@ sources:
   - [[summary-ai-daily-2026-04-26]]
   - [[summary-ai-builders-digest-2026-04-26]]
   - [[summary-ai-daily-2026-04-27]]
+  - [[summary-ai-builders-digest-2026-04-27]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -62,6 +63,14 @@ status: active
 - **SpaceX × Cursor**：600 亿美元收购期权或 100 亿美元深度合作
 - **OpenAI Codex 升级**：多 Agent + 桌面控制 + 记忆系统
 - 竞争格局重构中：SpaceX/OpenAI/Anthropic/DeepSeek **四方博弈**
+
+### Builder 社区动态 (2026-04-27)
+
+- **Sam Altman**: "we IQmog hard now" — 推理能力大幅提升（14K+ 赞），前端仍有改进空间。对 AI 编码速度表示惊叹
+- **Garry Tan (YC)**: 发布 GBrain v0.22（eval 系统）、GStack Browser（Claude Code 并排浏览器控制）
+- **Peter Steinberger (OpenClaw)**: Summarize v0.14.0 支持 GPT-5.5 Fast 模式；CodexBar v0.23 支持 GPT-5.5 定价 + Mistral
+- **Aaron Levie**: AI 杠杆效应——有野心+核心技能的人可以克服历史经验要求，新人能比几年前做得多得多
+- **Peter Yang**: 用 Codex + 7 岁孩子实验，揭示代际 AI 期望差异；频繁用 Codex 修 OpenClaw 配置
 
 ## 范式转变
 

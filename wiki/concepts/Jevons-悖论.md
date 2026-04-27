@@ -7,6 +7,7 @@ first_seen: 2026-04-25
 sources:
   - [[summary-ai-builders-digest-2026-04-25]]
   - [[summary-ai-builders-digest-2026-04-26]]
+  - [[summary-ai-builders-digest-2026-04-27]]
 related:
   - [[AI-Native]]
   - [[10x-Engineer]]
@@ -51,6 +52,25 @@ Aaron Levie 进一步阐述了 Jevons Paradox 的更多应用场景：
 SAP CTO Philipp Herzig 也从企业软件角度佐证了类似观点：**AI 不会削减岗位，而是将每个人提升一个层级**（如财务人员从数据收集转向战略分析）。
 
 来源：[[summary-ai-builders-digest-2026-04-26]]
+
+## 2026-04-27 更新
+
+### Aaron Levie — AI 杠杆效应（续）
+
+Levie 进一步扩展 Jevons Paradox 到个人职业层面：
+
+> AI 提供前所未有的杠杆 → 有野心+核心技能的人可以克服历史经验要求
+> 新人现在能完成比几年前多得多的工作
+> 公司应识别这些"来自未来"的人才并安排到关键位置
+
+### Bill McDermott — 企业级视角
+
+ServiceNow CEO 从企业平台角度补充：
+- **企业不会因为 AI 而裁员**，而是将人力投资从支持职能（agent 可做）转向创新和关系建立
+- 预测 **22 亿 agent 进入劳动力市场**——agent 比人多，但人类角色升级而非消失
+- 与 Jevons Paradox 一致：AI 效率提升 → 人类承担更高价值的工作
+
+来源：[[wiki/sources/summary-ai-builders-digest-2026-04-27]]
 
 ## 与知识库概念的关系
 

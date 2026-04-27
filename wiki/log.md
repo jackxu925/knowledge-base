@@ -7,6 +7,12 @@ updated: 2026-04-27
 # 活动日志
 
 ## 2026-04-27
+- [12:00] 摄取简报：AI Builders Digest 2026-04-27（12 builders, 25 tweets + 1 podcast，中英双语）
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-27.md
+- [12:00] 创建概念页面：SaaSpocalypse、Agentic Business
+- [12:00] 创建实体页面：ServiceNow、Bill McDermott
+- [12:00] 更新概念页面：AI Coding（新增 Builder 社区动态）、Jevons 悖论（新增 Levie 杠杆效应 + McDermott 企业视角）
+- [12:00] 更新实体页面：Sam Altman（新增 IQmog / 推理能力动态）
 - [07:30] 摄取简报：AI 领域每日动态 2026-04-27（DeepSeek-V4 开源、GPT-5.5 Benchmark 更新、Momenta Physical AI 上车、Cursor/SpaceX 收购进展、迅策科技 Token 第一股）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-27.md
 - [07:30] 创建实体页面：DeepSeek、Momenta、迅策科技
