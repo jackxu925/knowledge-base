@@ -7,9 +7,9 @@
 - [x] 摄取 AI 每日动态 + Builders Digest
 
 ## 统计
-- 原始资料：6 篇
-- 来源摘要：6 篇
-- 概念页面：26 篇
+- 原始资料：10 篇
+- 来源摘要：10 篇
+- 概念页面：41 篇
 - 实体页面：7 篇
 - 比较页面：0 篇
 - 综合页面：0 篇
@@ -23,7 +23,16 @@
 - 2026-04-25：创建 7 个实体页面（GPT-5.5、Cursor、月之暗面、自变量机器人、Sam Altman、Anthropic、Kimi K2.6）
 - 2026-04-26：摄取文章《Anthropic Product Management Skills 全景解析》
 - 2026-04-26：创建 3 个概念页面（Capability-Oriented Abstraction、Agent Skill System、Product Management Frameworks）
+- 2026-04-26：摄取视频：YC《How To Build A Company With AI From The Ground Up》
+- 2026-04-26：创建来源摘要：wiki/sources/yc-how-to-build-ai-native-company.md
+- 2026-04-26：创建 4 个概念页面（Closed Loop System、Software Factory、Token Maxing、DRRI）
 - 2026-04-26：摄取文章《GBrain：让AI Agent拥有完美记忆的知识系统》
 - 2026-04-26：创建 4 个概念页面（Agent Memory、Knowledge Model、Hybrid Search、Compound Growth）
+- 2026-04-26：摄取文章《How to Build for AI Agents and a Claude Code Second Brain》
+- 2026-04-26：创建 3 个概念页面（Claude Code Second Brain、Agent-Ready Product、AI Coaching）
+- 2026-04-26：摄取文章《Claude Code 产品负责人 Cat Wu：AI 时代 PM 该做的 3 件事》
+- 2026-04-26：创建 4 个概念页面（Research Preview、Launch Room、Product Taste、Dual-Core Division）
+- 2026-04-27：摄取文章《YC CEO：如何让 Claude 为你的 AI 工程团队编写代码？》
+- 2026-04-27：创建 4 个概念页面（GStack、Office Hours (AI)、Adversarial Review、Design Shotgun）
 - 2026-04-26：摄取文章《Building agents that reach production systems with MCP》
 - 2026-04-26：创建 4 个概念页面（MCP、Tool Search、Programmatic Tool Calling、Cloudflare MCP Server）

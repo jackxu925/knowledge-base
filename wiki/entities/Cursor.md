@@ -8,6 +8,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-25]]
   - [[summary-ai-daily-2026-04-26]]
   - [[summary-ai-daily-2026-04-27]]
+  - [[summary-ai-daily-2026-04-28]]
 related:
   - [[AI Coding]]
   - [[GPT-5.5]]

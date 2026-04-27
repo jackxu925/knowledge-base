@@ -11,6 +11,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-26]]
   - [[summary-ai-daily-2026-04-27]]
   - [[summary-ai-builders-digest-2026-04-27]]
+  - [[summary-ai-daily-2026-04-28]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -63,6 +64,18 @@ status: active
 - **SpaceX × Cursor**：600 亿美元收购期权或 100 亿美元深度合作
 - **OpenAI Codex 升级**：多 Agent + 桌面控制 + 记忆系统
 - 竞争格局重构中：SpaceX/OpenAI/Anthropic/DeepSeek **四方博弈**
+
+### xAI Grok Build 入局（2026-04-28）
+- 马斯克旗下 xAI 即将推出 **Grok Build**（IDE）+ **Grok CLI**
+- 正面竞争 Claude Code / OpenAI Codex / Google Jules
+- AI Coding 竞争进入 **四大赛场时代**：OpenAI vs Anthropic vs Cursor vs xAI
+
+### DeepSeek-V4 深度解析更新（2026-04-27）
+- **混合注意力架构**：CSA + HCA，百万 Token 推理算力仅前代 27%
+- **FP4 量化感知训练**：全球率先在万亿参数 MoE 中引入
+- **OPD 后训练范式**：On-Policy Distillation 取代传统 RL
+- Codeforces 排名人类第 **23** 位；SWE-bench **80.6%**
+- API 定价屠夫：Flash 输入 1 元/百万 Token（同级闭源 1/50）
 
 ### Builder 社区动态 (2026-04-27)
 

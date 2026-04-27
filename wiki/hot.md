@@ -1,38 +1,43 @@
 ---
 type: hot
 title: "热缓存"
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # 热缓存
 
 ## 当前焦点
-AI Builders Digest: ServiceNow CEO 论 SaaSpocalypse（10x 成本论）+ Sam Altman "IQmog hard now" 推理能力爆发 + Agentic Business 蓝图
+
+具身智能会议密集周 + AI Coding 新玩家入局：DeepSeek-V4 深度技术解析（混合注意力/FP4/OPD）+ 第三届北京具身智能大会 + 苏州「三个十大」+ xAI Grok Build 即将发布 + 北京车展物理 AI
 
 ## 开放问题
-- SaaSpocalypse 叙事是否会因 McDermott 的具体数据而减弱？
-- 22 亿 agent 进入劳动力市场的预测是否过于乐观？
-- "AI 控制塔"定位是否会被 LLM 厂商直接侵蚀？
-- DeepSeek-V4 开源后，国产 AI coding 工具生态会如何演变？
-- Physical AI（物理 AI）是否会成为独立于「具身智能」的主流叙事？
-- SpaceX 收购 Cursor 后，AI 编程工具的中立性如何保障？
+
+- xAI Grok Build 正式发布后，AI Coding 四大赛场格局会如何演变？
+- DeepSeek-V4 预览版的幻觉率和超长语境衰减问题何时修复？
+- 具身智能从「炫技」到「量产」的临界点究竟在哪？
+- 苏州「具身智能体开源社区」（思必驰牵头）能否真正推动软硬一体开源生态？
+- 小鹏同时布局人形机器人 IRON 和 Robotaxi GX 的协同逻辑是什么？
+- Grok Build 是否会与 SpaceX×Cursor 收购案产生联动？
 
 ## 近期决定
-- 创建 SaaSpocalypse 和 Agentic Business 概念页面
-- 创建 ServiceNow 和 Bill McDermott 实体页面
-- 追踪 DeepSeek-V4 开源生态适配进展
-- 关注企业级 Agent 化落地进展
+
+- 追踪 xAI Grok Build / Grok CLI 官方发布动态
+- 关注第三届具身智能大会《2026产业报告》核心数据
+- 追踪 DeepSeek-V4 从预览版到正式版的演进
+- 关注苏州大脑训练中心和开源社区的落地进展
 
 ## 最后操作
-- 摄取 1 篇来源摘要（AI Builders Digest 2026-04-27）
-- 新建 2 个概念页面（SaaSpocalypse、Agentic Business）+ 2 个实体页面（ServiceNow、Bill McDermott）
-- 更新 2 个概念页面（AI Coding、Jevons 悖论）+ 1 个实体页面（Sam Altman）
+
+- 摄取 1 篇来源摘要（AI Daily 2026-04-28）
+- 新建 1 个实体页面（xAI）
+- 更新 3 个概念页面（AI Coding、具身智能、Physical-AI）
+- 更新 2 个实体页面（DeepSeek、Cursor）
 
 ## 活跃页面
-- [[wiki/sources/summary-ai-builders-digest-2026-04-27]]
-- [[wiki/concepts/SaaSpocalypse]]
-- [[wiki/concepts/Agentic-Business]]
-- [[wiki/entities/ServiceNow]]
-- [[wiki/entities/Bill-McDermott]]
-- [[wiki/entities/Sam-Altman]]
+
+- [[wiki/sources/summary-ai-daily-2026-04-28]]
+- [[wiki/entities/xAI]]
+- [[wiki/entities/DeepSeek]]
 - [[wiki/concepts/AI-Coding]]
+- [[wiki/concepts/具身智能]]
+- [[wiki/concepts/Physical-AI]]

@@ -6,6 +6,7 @@ defined_by: []
 first_seen: 2026-04-27
 sources:
   - [[summary-ai-daily-2026-04-27]]
+  - [[summary-ai-daily-2026-04-28]]
 related:
   - [[AI Coding]]
   - [[GPT-5.5]]
@@ -31,6 +32,28 @@ status: active
 - 原生支持华为昇腾芯片（沐曦等 Day 0 适配）
 - Agent 能力、世界知识、推理性能全面对标 GPT-5.5
 - 58 页完整技术报告公开
+
+### V4 深度解析更新（2026-04-27）
+
+**混合注意力架构突破**：
+- **CSA（压缩稀疏注意力）**：每 4 Token 压缩为 1 条目再稀疏计算
+- **HCA（重压缩注意力）**：128 倍极端压缩比率
+- 百万 Token 场景下单 Token 推理算力仅前代 **27%**，KV Cache 占用降至 **10%**
+
+**MoE 工程创新**：
+- 全球率先在万亿参数 MoE 中引入 **FP4 量化感知训练**
+- Muon 优化器替代 AdamW，更快收敛
+
+**后训练范式革命**：
+- **OPD（On-Policy Distillation）**：取代传统 RL，先培养各领域专家再蒸馏融合
+- **交错思考链**：全对话轮次保留推理链，赋予 Agent 长期记忆
+
+**评测数据**：
+- 真实工作通过率：V4-Pro-Max **67%**（Opus 4.6 Thinking: 80%）
+- Codeforces 排名：人类第 **23** 位
+- SWE-bench Verified: **80.6%**
+- API 定价屠夫：Flash 输入 **1 元/百万 Token**，Pro 约为同级闭源模型 **1/50**
+- 超 **91%** DeepSeek 开发者认为 V4-Pro 可作为主力编程模型
 
 ## 战略意义
 

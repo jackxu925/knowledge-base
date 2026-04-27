@@ -6,7 +6,18 @@ updated: 2026-04-27
 
 # 活动日志
 
+## 2026-04-28
+- [07:30] 摄取简报：AI 领域每日动态 2026-04-28（DeepSeek-V4 深度技术解析、第三届具身智能大会北京开幕、苏州具身智能生态大会、xAI Grok Build 即将发布、北京车展物理 AI）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-28.md
+- [07:30] 创建实体页面：xAI（Grok Build / Grok CLI）
+- [07:30] 更新概念页面：AI Coding（新增 xAI 入局 + V4 深度解析数据）、具身智能（新增会议密集期动态）、Physical-AI（新增北京车展物理 AI）
+- [07:30] 更新实体页面：DeepSeek（新增 V4 混合注意力/FP4/OPD 技术细节 + 评测数据）、Cursor（新增来源引用）
+
 ## 2026-04-27
+- [22:13] 摄取文章：YC CEO：如何让 Claude 为你的 AI 工程团队编写代码？（Gary Tan / Y Combinator）
+- [22:13] 创建来源摘要：wiki/sources/yc-ceo-claude-code-ai-team.md
+- [22:13] 创建概念页面：GStack、Office Hours (AI)、Adversarial Review、Design Shotgun
+- [22:13] 更新 VAULT-INDEX.md 仪表盘（原始资料 10 篇、来源摘要 10 篇、概念页面 41 篇）
 - [12:00] 摄取简报：AI Builders Digest 2026-04-27（12 builders, 25 tweets + 1 podcast，中英双语）
 - [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-27.md
 - [12:00] 创建概念页面：SaaSpocalypse、Agentic Business
