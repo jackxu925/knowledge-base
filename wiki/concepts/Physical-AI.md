@@ -7,6 +7,7 @@ first_seen: 2026-04-27
 sources:
   - [[summary-ai-daily-2026-04-27]]
   - [[summary-ai-daily-2026-04-28]]
+  - [[summary-ai-daily-2026-04-29]]
 related:
   - [[具身智能]]
   - [[Momenta]]
@@ -41,6 +42,16 @@ Physical AI = 具身智能 + 物理世界模型 + 端侧部署
 ### 人形机器人
 - 荣耀机器人半马夺冠（2026-04）
 - IDC 预测：2026 年中国引领全球具身智能市场增长
+
+### Applied Intuition 重型机械 Physical AI（2026-04-28）
+- CEO Qasar Younis 和 CTO Peter Ludwig 深度探讨物理 AI
+- 将 AI 集成到重型机械：采矿设备、无人机、卡车、军舰
+- 重点解决高对抗性现实物理环境下的鲁棒性问题
+
+### WALL-B 物理规律理解（2026-04-29 追踪）
+- 自变量机器人 WALL-B 模型原生理解重力、惯性等物理规律
+- 实现零样本泛化（Zero-shot Generalization）
+- 端到端联合训练 vs 模块化 VLA 的路线之争升温
 
 ### 北京车展 Physical AI（2026-04-24 起）
 - **小鹏集团**：人形机器人 IRON + Robotaxi GX（中国首款全栈自研前装量产）+ 分体式飞行汽车「陆地航母」

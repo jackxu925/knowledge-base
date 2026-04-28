@@ -1,12 +1,30 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-04-27
+updated: 2026-04-29
 ---
 
 # 活动日志
 
+## 2026-04-29
+- [07:30] 摄取简报：AI 领域每日动态 2026-04-29（Opus 4.6 删库事故、微软OpenAI分手、第三届北京具身智能大会、Ineffable Intelligence 11亿融资、自变量机器人WALL-B发布）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-29.md
+- [07:30] 创建实体页面：Ineffable Intelligence（David Silver / 11亿种子轮）
+- [07:30] 更新概念页面：AI Coding（新增删库事故安全分析+微软OpenAI分手+新工具动态）、具身智能（新增北京大会深化+WALL-B模型详情）、Physical-AI（新增Applied Intuition+WALL-B物理理解）
+- [07:30] 更新实体页面：Cursor（新增删库安全事故影响）、Anthropic（新增Opus 4.6安全争议）、自变量机器人（新增WALL-B深度信息）
+
 ## 2026-04-28
+- [12:00] 摄取简报：AI Builders Digest 2026-04-28（12 builders, 22 tweets + 1 blog + 1 podcast，中英双语）
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-28.md
+- [12:00] 创建概念页面：Energy Based Model (EBM)、Claude Code Auto Mode、Agent Design Patterns
+- [12:00] 创建实体页面：Logical Intelligence / Eve
+- [12:00] 更新概念页面：AI Coding（新增 Rauch 编码 Agent 基础论、Altman OS/UI 重构、Auto Mode 安全实践、EBM 范式探索）
+- [12:00] 更新概念页面：Jevons 悖论（新增 Levie Agent 过度劳动论 + Gell-Mann Amnesia 框架）
+- [12:00] 更新实体页面：Sam Altman（新增 GPT-5.5 反响、OpenAI 五大原则、OS/UI 重新设计呼声）
+- [10:09] 摄取文章：Anthropic Product Management Skills 总结：从单点技能到完整链路（进击的肖恩 / AIML实验室）
+- [10:09] 创建来源摘要：wiki/sources/anthropic-pm-skills-summary.md
+- [10:09] 创建概念页面：Agent Workflow、Process Formalization、Capability Abstraction、Methodology Guardrails
+- [10:09] 更新 VAULT-INDEX.md 仪表盘（原始资料 11 篇、来源摘要 11 篇、概念页面 45 篇）
 - [07:30] 摄取简报：AI 领域每日动态 2026-04-28（DeepSeek-V4 深度技术解析、第三届具身智能大会北京开幕、苏州具身智能生态大会、xAI Grok Build 即将发布、北京车展物理 AI）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-28.md
 - [07:30] 创建实体页面：xAI（Grok Build / Grok CLI）

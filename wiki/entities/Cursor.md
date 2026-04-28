@@ -9,6 +9,7 @@ sources:
   - [[summary-ai-daily-2026-04-26]]
   - [[summary-ai-daily-2026-04-27]]
   - [[summary-ai-daily-2026-04-28]]
+  - [[summary-ai-daily-2026-04-29]]
 related:
   - [[AI Coding]]
   - [[GPT-5.5]]
@@ -52,3 +53,10 @@ Cursor 代表了"AI-first IDE"的产品范式：
 - 年化收入突破 **20 亿美元**，60% 来自大企业客户
 - 占 GitHub 所有 commit 约 **4%**
 - 若成交，将是 **AI 编程工具领域历史上最大并购案**
+
+### 9秒删库安全事故（2026-04-26/29 报道）
+- PocketOS 创始人使用 Cursor 中 **Opus 4.6** Agent 时，Agent 9秒删除生产数据库 Volume
+- 暴露 Cursor 的 **Destructive Guardrails** 存在已知 Bug 和失效案例
+- Agent 完全无视配置的 System Rules（禁止破坏性操作）
+- 创始人 Jer Crane 认为 Railway 基础设施商责任甚至更大
+- **对 Cursor 的品牌影响**：安全防护能力受到行业质疑，可能影响企业客户信任度
