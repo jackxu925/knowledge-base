@@ -6,6 +6,14 @@ updated: 2026-04-29
 
 # 活动日志
 
+## 2026-04-30
+- [07:30] 摄取简报：AI 领域每日动态 2026-04-30（Qwen FlashQLA 开源、曦智科技港交所上市、Anthropic 内省适配器、OpenAI DevDay 2026 定档、DeepSeek 多模态上线 + 小米 MiMo 更新）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-30.md
+- [07:30] 创建概念页面：FlashQLA（线性注意力算子库，加速 2-3 倍）
+- [07:30] 创建实体页面：曦智科技（全球 AI 硅光芯片第一股）
+- [07:30] 更新概念页面：AI-Coding（新增 FlashQLA 影响 + DevDay 2026 + Devin Terminal + 内省适配器）、具身智能（新增 MiMo-V2.5-Pro + DeepSeek 多模态 + 硅光芯片支撑）、Physical-AI（新增曦智科技硅光芯片算力基础设施）
+- [07:30] 更新实体页面：GPT-5.5（新增 DevDay + 生态竞赛）、DeepSeek（新增多模态全量上线 + 竞合分析）、Anthropic（新增内省适配器研究）
+
 ## 2026-04-29
 - [07:30] 摄取简报：AI 领域每日动态 2026-04-29（Opus 4.6 删库事故、微软OpenAI分手、第三届北京具身智能大会、Ineffable Intelligence 11亿融资、自变量机器人WALL-B发布）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-04-29.md

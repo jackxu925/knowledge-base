@@ -8,6 +8,7 @@ sources:
   - [[summary-ai-daily-2026-04-27]]
   - [[summary-ai-daily-2026-04-28]]
   - [[summary-ai-daily-2026-04-29]]
+  - [[summary-ai-daily-2026-04-30]]
 related:
   - [[具身智能]]
   - [[Momenta]]
@@ -65,6 +66,12 @@ Physical AI = 具身智能 + 物理世界模型 + 端侧部署
 - [[Momenta]]：自动驾驶领域的 Physical AI 落地代表
 - [[AI-Native]]：Physical AI 是 AI-Native 在物理世界的延伸
 
+### 硅光芯片 — Physical AI 的新算力基础设施（2026-04-30）
+- **曦智科技**港交所上市（01879.HK），全球 AI 硅光芯片第一股
+- 光电混合算力（oMAC/oNOC/oNE）突破传统电芯片物理极限
+- 对 Physical AI 的意义：机器人边缘计算需要低功耗高带宽算力，硅光芯片是关键使能技术
+- **"后摩尔时代"算力路径**：从纯 GPU 加速走向光电混合计算
+
 ## 预测
 
 2026 年是 Physical AI 从概念验证走向**商业化落地**的关键一年。核心判断依据：
@@ -72,3 +79,4 @@ Physical AI = 具身智能 + 物理世界模型 + 端侧部署
 - AGIBOT 万台机器人部署
 - ATEC2026 图灵测试竞赛启动
 - 多家车企接入端侧大模型
+- 曦智科技上市标志新型算力路径获资本市场认可

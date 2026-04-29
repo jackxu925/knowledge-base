@@ -8,6 +8,7 @@ sources:
   - [[summary-ai-daily-2026-04-25]]
   - [[summary-ai-builders-digest-2026-04-25]]
   - [[summary-ai-daily-2026-04-27]]
+  - [[summary-ai-daily-2026-04-30]]
 related:
   - [[AI Coding]]
   - [[Claude Opus 4.7]]
@@ -49,3 +50,10 @@ OpenAI 于 2026 年 4 月 25 日发布的旗舰大语言模型。
 ## 竞争格局
 
 GPT-5.5 的发布直接加剧了与 Claude Opus 4.7、Gemini 3.1 Pro 的竞争，同时面临 DeepSeek-V4 开源生态的挑战。Anthropic 私募估值已破 1 万亿美元，超越 OpenAI 的 8520 亿。形成 **OpenAI / Anthropic / DeepSeek** 三方博弈格局。
+
+## DevDay 2026 + 生态竞赛（2026-04-30）
+
+- OpenAI 宣布 **DevDay 2026** 定档 **9 月 29 日**
+- 推出基于 GPT-5.5 的创作竞赛，生态预热启动
+- Codex 活跃用户突破 **400 万**，驱动 AI 编程 Agent 能力质变
+- NVIDIA 全栈协作（DGX-1 → GPT-5.5 → Codex）超十年合作成果

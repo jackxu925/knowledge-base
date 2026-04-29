@@ -15,6 +15,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-28]]
   - [[summary-ai-builders-digest-2026-04-29]]
   - [[summary-ai-daily-2026-04-29]]
+  - [[summary-ai-daily-2026-04-30]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -101,6 +102,29 @@ status: active
 - **free-claude-code**: 登顶 GitHub Trending，免 API Key 使用 Claude Code（CLI+VSCode+Discord），降低 AI 编程门槛
 - **GitNexus**: 零服务器浏览器端代码知识图谱引擎，内置 Graph RAG Agent
 - **CUA**: Computer-Use Agent 开源基础设施（沙箱/SDK/基准测试），支持 macOS/Linux/Windows 桌面控制
+
+### Qwen FlashQLA 开源 — 推理加速 2-3 倍（2026-04-29/30）
+- 阿里通义千问开源**高性能线性注意力算子库 FlashQLA**
+- 基于 TileLang 实现，针对 Qwen 全系列主力注意力层 GDN
+- NVIDIA Hopper 上：**前向推理加速 2-3 倍，反向训练加速 2 倍**
+- **直接影响 AI Coding 工具效率**：Qwen 系列被 Cursor/Windsurf 广泛采用，底层加速降低 API 调用延迟和成本
+- 技术路线信号：线性注意力替代全量 Attention 正成为行业共识
+
+### OpenAI DevDay 2026 定档 + GPT-5.5 竞赛启动（2026-04-30）
+- OpenAI 宣布 **DevDay 2026** 定档 **9 月 29 日**
+- 推出基于 **GPT-5.5** 的创作竞赛，生态预热开始
+- **GPT-5.5 驱动 Codex 编程能力大幅提升**：更强的长期推理 + 工具调用 + 任务规划 → 更自主的 AI 编程 Agent
+- GitHub Copilot / Cursor / Claude Code 等工具将迎来基座能力跃迁，竞争格局可能再次洗牌
+
+### Devin for Terminal 上线（2026-04-29）
+- **Cognition** 发布 **Devin for Terminal**：AI 编程 Agent 从 IDE 延伸至命令行场景
+- 终端场景的自主编程能力意味着 Agent 可执行完整的开发运维工作流
+
+### Anthropic 内省适配器研究（2026-04-30）
+- 联合剑桥大学发布 **Introspection Adapters** 论文
+- 让 LLM 以自然语言可靠描述内部习得行为，主动报告潜在对齐失效
+- **AI 安全新范式**：从"外部对抗测试"转向"内部自我监控"
+- 对自主编程 Agent 的可解释性和可控性具有间接影响
 
 ### Builder 社区动态 (2026-04-28)
 
