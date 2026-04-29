@@ -7,9 +7,9 @@
 - [x] 摄取 AI 每日动态 + Builders Digest
 
 ## 统计
-- 原始资料：10 篇
-- 来源摘要：10 篇
-- 概念页面：41 篇
+- 原始资料：11 篇
+- 来源摘要：11 篇
+- 概念页面：45 篇
 - 实体页面：7 篇
 - 比较页面：0 篇
 - 综合页面：0 篇
@@ -34,5 +34,7 @@
 - 2026-04-26：创建 4 个概念页面（Research Preview、Launch Room、Product Taste、Dual-Core Division）
 - 2026-04-27：摄取文章《YC CEO：如何让 Claude 为你的 AI 工程团队编写代码？》
 - 2026-04-27：创建 4 个概念页面（GStack、Office Hours (AI)、Adversarial Review、Design Shotgun）
+- 2026-04-28：摄取文章《Anthropic Product Management Skills 总结：从单点技能到完整链路》
+- 2026-04-28：创建 4 个概念页面（Agent Workflow、Process Formalization、Capability Abstraction、Methodology Guardrails）
 - 2026-04-26：摄取文章《Building agents that reach production systems with MCP》
 - 2026-04-26：创建 4 个概念页面（MCP、Tool Search、Programmatic Tool Calling、Cloudflare MCP Server）

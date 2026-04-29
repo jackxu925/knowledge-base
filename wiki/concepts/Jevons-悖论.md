@@ -8,6 +8,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-25]]
   - [[summary-ai-builders-digest-2026-04-26]]
   - [[summary-ai-builders-digest-2026-04-27]]
+  - [[summary-ai-builders-digest-2026-04-28]]
 related:
   - [[AI-Native]]
   - [[10x-Engineer]]
@@ -71,6 +72,40 @@ ServiceNow CEO 从企业平台角度补充：
 - 与 Jevons Paradox 一致：AI 效率提升 → 人类承担更高价值的工作
 
 来源：[[wiki/sources/summary-ai-builders-digest-2026-04-27]]
+
+## 2026-04-28 更新
+
+### Aaron Levie — Agent 过度劳动论（Jevons Paradox 的微观版）
+
+Levie 提出 AI Agent 时代导致个人**过度工作**的两个结构性因素：
+
+**因素一：杠杆率感知变化**
+- AI 大幅提升增量投入的杠杆率
+- 使用 AI 工具的人最先感受到这种复利效应
+- 感觉类似团队管理者——浪费团队成员时间是最糟糕的事
+- 现在 IC（个人贡献者）通过管理 Agent 获得类似的"浪费时间"敏感度
+- **优先级管理和任务拆分能力成为关键技能**
+
+**因素二：90%-10% 陷阱**
+- AI 让启动新项目变得太容易
+- 快速达到 90% 方案，但最后 10% 消耗大部分时间
+- 启动更多项目 → 总工时增加
+- Levie 原话: "I regularly start a project at 9PM that I think will be quick, and find myself at midnight still completing the work"
+
+**就业创造机制**：
+- 这种实验最终推动就业创造——因为团队/公司决定将实验升级为生产流程
+- **没有 AI 就不会启动这些实验**
+
+### Gell-Mann Amnesia for AI Job Displacement
+
+Levie 提出一个重要认知偏差框架：**人们用 AI 做自己的工作时能看到所有复杂性**（数据访问、上下文需求、输出审核、业务流程集成），但看别人工作时却认为 AI 会立即取代对方。
+
+> "We all have a much deeper appreciation for the nuances and complexities of the work that we do every day."
+> "We tend to dramatically underestimate the work that goes into making the AI work just as effectively in those jobs."
+
+这是对失业理论保持怀疑的理由——理论来自自动化单个任务，而不理解完整工作的全部内容。
+
+来源：[[wiki/sources/summary-ai-builders-digest-2026-04-28]]
 
 ## 与知识库概念的关系
 

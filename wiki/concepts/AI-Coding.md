@@ -13,6 +13,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-27]]
   - [[summary-ai-daily-2026-04-28]]
   - [[summary-ai-builders-digest-2026-04-28]]
+  - [[summary-ai-builders-digest-2026-04-29]]
   - [[summary-ai-daily-2026-04-29]]
 related:
   - [[GPT-5.5]]

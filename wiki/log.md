@@ -12,6 +12,12 @@ updated: 2026-04-29
 - [07:30] 创建实体页面：Ineffable Intelligence（David Silver / 11亿种子轮）
 - [07:30] 更新概念页面：AI Coding（新增删库事故安全分析+微软OpenAI分手+新工具动态）、具身智能（新增北京大会深化+WALL-B模型详情）、Physical-AI（新增Applied Intuition+WALL-B物理理解）
 - [07:30] 更新实体页面：Cursor（新增删库安全事故影响）、Anthropic（新增Opus 4.6安全争议）、自变量机器人（新增WALL-B深度信息）
+- [12:00] 摄取简报：AI Builders Digest 2026-04-29（12 builders, 29 tweets + 1 podcast，中英双语）
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-29.md
+- [12:00] 创建概念页面：Agent-Led Growth (ALG)、Single-Agent Orchestration、Software as New Media
+- [12:00] 创建实体页面：ProFound、James Cadwallader
+- [12:00] 更新概念页面：AI Coding（新增 Codex $20 方案 + 多云战略 + 浏览器绕过模式 + 软件即新媒体论）
+- [12:00] 更新实体页面：Sam Altman（新增多云合作 + Codex 推广）
 
 ## 2026-04-28
 - [12:00] 摄取简报：AI Builders Digest 2026-04-28（12 builders, 22 tweets + 1 blog + 1 podcast，中英双语）
