@@ -9,6 +9,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-26]]
   - [[summary-ai-builders-digest-2026-04-27]]
   - [[summary-ai-builders-digest-2026-04-28]]
+  - [[summary-ai-builders-digest-2026-04-30]]
 related:
   - [[AI-Native]]
   - [[10x-Engineer]]
@@ -106,6 +107,32 @@ Levie 提出一个重要认知偏差框架：**人们用 AI 做自己的工作�
 这是对失业理论保持怀疑的理由——理论来自自动化单个任务，而不理解完整工作的全部内容。
 
 来源：[[wiki/sources/summary-ai-builders-digest-2026-04-28]]
+
+## 2026-04-30 更新
+
+### Aaron Levie — 100X 软件爆发论（Jevons Paradox 宏观版）
+
+Levie 在本轮发表其最完整的 Jevons Paradox 论述：
+
+**核心命题：软件岗位不会消失，Agent 将创造 100 倍于现有规模的软件量**
+
+六大驱动因素：
+1. **存量优化**: 大量现有应用需要变得更好
+2. **上云迁移**: 遗留本地系统必须重新平台化
+3. **SMB 首次开发**: 中小企业以前雇不起开发者
+4. **安全补丁**: 即将被发现的大量安全问题需要修补
+5. **IT 自动化**: 从前无法自动化的工作流即将被自动化
+6. **数据连接**: 大部分组织的数据即将被处理和连接
+
+**关键限定**:
+- "100X more software" != "everyone rolling their own"
+- Agentic coding 适合: 开发者提效、IT 内部构建、领域专家自动化、学习编程者
+- Agentic coding 不适合: casually 构建需长期维护的复杂系统
+- 升级、维护、安全更新等"税负"是多数知识工作者未准备的
+
+**与 Jevons Paradox 的关系**: 这是对该悖论的终极验证 — AI 效率提升不会减少软件开发需求，而是通过降低准入门槛和开辟新场景，使总需求暴增。
+
+来源：[[wiki/sources/summary-ai-builders-digest-2026-04-30]]
 
 ## 与知识库概念的关系
 

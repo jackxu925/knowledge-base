@@ -16,6 +16,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-29]]
   - [[summary-ai-daily-2026-04-29]]
   - [[summary-ai-daily-2026-04-30]]
+  - [[summary-ai-builders-digest-2026-04-30]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -147,6 +148,27 @@ status: active
 - Logical Intelligence CEO Eve 在 AI & I 播客深度阐述 EBM（Energy Based Model）
 - 主张从 vibe coding → 自然语言编程 + 形式化验证输出
 - EBM 作为 LLM 兼容增强层，处理空间推理/数据分析/形式化验证
+
+### Builder 社区动态 (2026-04-30)
+
+**核心主题**: Agent CI/CD 成熟化、Creative Tool Connectors 扩展、X-Native 应用范式
+
+- **Peter Steinberger (OpenClaw)**: 公开 **Agent CI/CD 生产管线** — 每次 main commit 启动 Codex 审查 + 自动 PR 修复 + 递归 review（最多 5 轮），10 分钟内发现自身 bug。**标志性事件：首个公开的 agent 自治代码质量循环**
+- **Claude/Anthropic**: 发布 **Creative Tool Connectors 矩阵** — Blender (34K+ 赞, 本轮最高)、Autodesk Fusion (10.8K 赞) + Adobe CC / Ableton / Splice / Canva / SketchUp / Resolume。加入 Blender Development Fund。**AI 编程助手向创意工作流深度渗透的里程碑**
+- **Dan Shipper (Every)**: 提出 **"X-Native Apps" 新范式** — Codex-native / Cursor-native / Cowork-native 应用分类。在 Codex 内使用 Posthog: agent 自主查询分析 + 发起 PR + 查生产库。"桌面工具中的浏览器 > 浏览器中的 agent"
+- **Aaron Levie (Box)**: 深度论述 Agentic Coding 边界 — Agent 是技术人才史上最大杠杆，世界将迎 **100X 软件爆发**；但警告不适合 casually 构建需长期维护的系统，运维"税负"是知识工作者未准备的负担
+- **Amjad Masad (Replit)**: 预言 GitHub 免费模式将被人类级 bot 冲垮，建议 Bitcoin 微支付方案
+- **Guillermo Rauch (Vercel)**: 战略转型宣言 — "We used to build tools for humans, now we're building them for agents." 工具矩阵 22.8M+ 下载
+- **Thariq (Anthropic CC)**: no-flicker renderer 默认化 + 公开狩猎 bug（1038 赞, 341 评论）+ 大文件写入白鲸已定位根因
+- **Sam Altman**: 两条链接推文获 6572+9019 likes，预告 @ajambrosino 重大更新
+
+### Builder 社区动态 (2026-04-29)
+
+**核心观点**：
+
+- **Sam Altman OpenAI-Microsoft 合作重构**: 多云可用性是企业战略的分水岭时刻。Codex $20 方案获 7770 赞；"multi-cloud" 推文 13200 赞，本周期最热
+- **Matt Turck SV vs Enterprise 认知差距**: "从未见过如此巨大的差距"。SV 认为 agent 将接管一切；Global 2000 在 AI 聊天投资上看到零生产力回报。**当前最重要的市场动态**
+- **Peter Steinberger Browser-as-API**: Codex agent 打开浏览器绕过 GitHub 速率限制，在评论框中输入并自主关闭 issue。PR/Issue CI 基础设施 for agents（439 赞）
 
 ### Builder 社区动态 (2026-04-27)
 
