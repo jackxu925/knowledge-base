@@ -6,6 +6,12 @@ updated: 2026-04-29
 
 # 活动日志
 
+## 2026-05-01
+- [07:30] 摄取简报：AI 领域每日动态 2026-05-01（GitHub Copilot Coding Agent、Qwen3.6-Plus、Kimi K2.6开源、Figure AI生产提速、MIT AI Agent Index）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-05-01.md
+- [07:30] 更新概念页面：AI-Coding（新增今日5条要闻）、具身智能（新增Figure AI生产提速）
+- [07:30] 更新实体页面：月之暗面（新增Kimi K2.6开源详情）
+
 ## 2026-04-30
 - [12:00] 摄取简报：AI Builders Digest 2026-04-30（14 builders, 34 tweets，中英双语）
 - [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-30.md
