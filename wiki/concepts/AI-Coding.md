@@ -18,6 +18,7 @@ sources:
   - [[summary-ai-daily-2026-04-30]]
   - [[summary-ai-builders-digest-2026-04-30]]
   - [[summary-ai-daily-2026-05-01]]
+  - [[summary-ai-ai-2026-05-02]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]

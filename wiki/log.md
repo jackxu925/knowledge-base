@@ -6,6 +6,11 @@ updated: 2026-04-29
 
 # 活动日志
 
+## 2026-05-02
+- [07:30] 摄取简报：AI领域每日动态2026-05-02（Claude Opus 4.7、Cursor 3、Figure AI量产、MagicLab Magic-Mix、ChatGPT Super App）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-ai-2026-05-02.md
+- [07:30] 创建实体页面：Claude Opus 4.7、MagicLab、Figure-03、MagicBot-01、MagicHand-H01、Magic-01、ChatGPT Super App
+- [07:30] 更新概念页面：AI-Logging（新增Claude Opus 4.7+Cursor 3+ChatGPT Super App）、具身智能（新增MagicLab+Figure 03+Magic-01系列）
 ## 2026-05-01
 - [07:30] 摄取简报：AI 领域每日动态 2026-05-01（GitHub Copilot Coding Agent、Qwen3.6-Plus、Kimi K2.6开源、Figure AI生产提速、MIT AI Agent Index）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-05-01.md
