@@ -19,6 +19,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-30]]
   - [[summary-ai-daily-2026-05-01]]
   - [[summary-ai-ai-2026-05-02]]
+  - [[summary-2026-05-03]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -122,6 +123,16 @@ status: active
 ### Devin for Terminal 上线（2026-04-29）
 - **Cognition** 发布 **Devin for Terminal**：AI 编程 Agent 从 IDE 延伸至命令行场景
 - 终端场景的自主编程能力意味着 Agent 可执行完整的开发运维工作流
+
+### 工信部"人工智能+软件"专项行动（2026-04-28）
+- **官方首次专项行动支持 AI 编程**：工信部副部长柯吉欣表示将开展"人工智能+软件"专项行动
+- **新业态培育**：Model-as-a-Service（模型即服务）、Agent-as-a-Service（智能体即服务）
+- **政策意义**：标志 AI 编程获国家级资源支持，开发者生态有望加速成熟
+
+### Cursor AI Agent 重大升级（2026-04）
+- **自主执行能力提升**：新一代代理可生成/修改代码 + 自主测试 + 视频/日志/截图记录
+- **可追溯性增强**：开发过程可验证，提升企业级采用信心
+- **行业影响**：AI 编程工具进入"自动化开发"阶段
 
 ### Anthropic 内省适配器研究（2026-04-30）
 - 联合剑桥大学发布 **Introspection Adapters** 论文

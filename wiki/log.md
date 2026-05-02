@@ -1,10 +1,16 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # 活动日志
+
+## 2026-05-03
+- [07:30] 摄取简报：AI领域重要动态2026-05-03（Meta收购Assured Robot Intelligence、工信部专项行动、Gemini Robotics-ER 1.6、MagicLab GEIS、Cursor Agent升级）
+- [07:30] 创建来源摘要：wiki/sources/summary-2026-05-03.md
+- [07:30] 创建实体页面：Assured Robot Intelligence、Gemini Robotics-ER、Meta、Google DeepMind
+- [07:30] 更新概念页面：具身智能（新增Meta收购+GEIS大会+Gemini ER）、AI-Coding（新增工信部专项行动+Cursor升级）
 
 ## 2026-05-02
 - [12:00] 摄取简报：AI Builders Digest 2026-05-02（17 builders, 41 tweets + 1 podcast + 1 blog，中英双语）

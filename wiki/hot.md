@@ -1,42 +1,40 @@
 ---
 type: hot
 title: "热缓存"
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # 热缓存
 
 ## 当前焦点
 
-**AI 编排操作系统演进 + Codex 扩展 + Demis AGI 最终冲刺**：Nikunj Kothari 预测大模型将编排生活（Terminal → Computer Use → OS）→ Sam Altman Codex 升级支持非编码计算机工作 → Demis Hassabis 播客专访分享 AGI 最终路径 → DeepMind 游戏验证场哲学
-
-**Claude 安全产品化 + Anthropic 工具链扩张**：Claude Security 公开测试版发布，无需 API 集成 → Claude Code Desktop Redesign 并行 agent 工作 → Aditya Agarwal 网络安全 AI 攻防一体化 → Garry Tan GBrain 成为 OpenClaw 独立类别
+**具身智能加速落地 + AI Coding 政策红利**：Meta 收购 Assured Robot Intelligence 加速人形机器人布局 → 工信部"人工智能+软件"专项行动首次官方支持 AI 编程 → Gemini Robotics-ER 1.6 具身推理突破 → MagicLab GEIS 大会彰显中国智造 → Cursor Agent 自主执行能力升级
 
 ## 开放问题
 
-- Codex 非编码计算机工作的实际落地场景？
-- Demis Hassabis "tools to create intelligence" 具体路径？
-- Claude Security 能否在企业安全市场取得显著份额？
-- "成为模型路径一部分" 的商业化机会？
+- 中国官方专项行动对 AI Coding 开发者生态的具体影响？
+- 具身智能"规模化部署元年"的下一步验证？
+- AI Agent 安全边界设计的新范式？
 
 ## 近期决定
 
-- 追踪 Codex 扩展功能的开发者反馈
-- 追踪 Demis Hassabis 播客后续内容的消化
-- 追踪 Claude Security 企业采用数据
+- 追踪具身智能规模化部署进展
+- 追踪工信部专项行动细则出台
+- 追踪 AI Coding 安全实践演进
 
 ## 最后操作
 
-- 摄取 1 篇来源摘要（AI Builders Digest 2026-05-02）
-- 新建 2 个实体页面（Demis Hassabis、Claude Code Desktop Redesign）
-- 新建 1 个概念页面（AI 编排操作系统）
-- 更新 2 个页面（Sam Altman 新增 Codex 重大升级、log.md + hot.md）
+- 摄取 1 篇来源摘要（summary-2026-05-03）
+- 新建 5 个实体页面（Assured Robot Intelligence、Gemini Robotics-ER、Meta、Google DeepMind）
+- 更新 2 个概念页面（具身智能、AI-Coding）
+- 更新 log.md + hot.md
 
 ## 活跃页面
 
-- [[wiki/sources/summary-ai-builders-digest-2026-05-02]]
-- [[wiki/concepts/AI-编排操作系统]]
-- [[wiki/entities/Demis Hassabis]]
-- [[wiki/entities/Sam Altman]]
-- [[wiki/entities/Claude Code Desktop Redesign]]
-- [[wiki/concepts/MCP]]
+- [[wiki/sources/summary-2026-05-03]]
+- [[wiki/entities/Assured Robot Intelligence]]
+- [[wiki/entities/Gemini Robotics-ER]]
+- [[wiki/entities/Meta]]
+- [[wiki/entities/Google DeepMind]]
+- [[wiki/concepts/具身智能]]
+- [[wiki/concepts/AI-Coding]]
