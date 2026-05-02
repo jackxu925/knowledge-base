@@ -11,6 +11,7 @@ sources:
   - [[summary-ai-builders-digest-2026-04-28]]
   - [[summary-ai-builders-digest-2026-04-29]]
   - [[summary-ai-builders-digest-2026-04-30]]
+  - [[summary-ai-builders-digest-2026-05-02]]
 related:
   - [[OpenAI]]
   - [[GPT-5.5]]
@@ -64,4 +65,11 @@ OpenAI CEO。
 - 两条链接推文分别获 **6572 赞** 和 **9019 赞**（本轮最高互动级别之一），具体内容为链接跳转未在 feed 中展开
 - 保持高密度、高互动的输出节奏，持续维持开发者社区关注度
 
-来源：[[wiki/sources/summary-ai-builders-digest-2026-04-30]]
+## 2026-05-02 动态
+
+### Codex 重大升级
+
+- **Codex 重大升级**：可用于非编码的计算机工作
+- **"artificial goblin intelligence achieved"** — 轻松回应 OpenAI 模型更新（6203 赞，415 转发，1072 回复）
+
+来源：[[wiki/sources/summary-ai-builders-digest-2026-05-02]]
