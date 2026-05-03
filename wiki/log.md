@@ -1,10 +1,17 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-03
+updated: 2026-05-04
 ---
 
 # 活动日志
+
+## 2026-05-04
+- [07:30] 摄取简报：AI领域重要动态2026-05-04（Meta收购Assured Robot Intelligence、北京车展物理AI、Cursor删库事件、Kimi K3发布、2026 AI编程工具格局）
+- [07:30] 创建来源摘要：wiki/sources/summary-2026-05-04.md
+- [07:30] 创建实体页面：Kimi K3
+- [07:30] 更新概念页面：具身智能（Meta收购+北京车展）、AI-Coding（删库事件+Kimi K3）
+- [07:30] 更新实体页面：月之暗面（新增Kimi K3信息）
 
 ## 2026-05-03
 - [12:00] 摄取简报：AI Builders Digest 2026-05-03（7 builders, 1 podcast + 3 blogs，中英双语）

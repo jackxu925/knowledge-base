@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: AI Coding
 aliases: [AI 编程]
@@ -20,6 +21,7 @@ sources:
   - [[summary-ai-daily-2026-05-01]]
   - [[summary-ai-ai-2026-05-02]]
   - [[summary-2026-05-03]]
+  - [[summary-2026-05-04]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -30,7 +32,9 @@ related:
   - [[Energy Based Model]]
   - [[Agent Design Patterns]]
 status: active
+updated: 2026-05-04
 ---
+
 
 # AI Coding（AI 编程）
 
