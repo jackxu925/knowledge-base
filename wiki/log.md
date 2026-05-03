@@ -7,6 +7,10 @@ updated: 2026-05-03
 # 活动日志
 
 ## 2026-05-03
+- [12:00] 摄取简报：AI Builders Digest 2026-05-03（7 builders, 1 podcast + 3 blogs，中英双语）
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-03.md
+- [12:00] 创建实体页面：Baseten、Tuhin Srivastava
+- [12:00] 更新概念页面：AI-Inference（新增 Baseten 30X 增长 + 10亿美元年营收预测）、AI-Agent（新增 Levie 观点 + Greg Isenberg 预测）、Managed-Agents（新增 Claude 记忆功能 + Netflix/Rakuten 案例）
 - [07:30] 摄取简报：AI领域重要动态2026-05-03（Meta收购Assured Robot Intelligence、工信部专项行动、Gemini Robotics-ER 1.6、MagicLab GEIS、Cursor Agent升级）
 - [07:30] 创建来源摘要：wiki/sources/summary-2026-05-03.md
 - [07:30] 创建实体页面：Assured Robot Intelligence、Gemini Robotics-ER、Meta、Google DeepMind

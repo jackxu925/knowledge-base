@@ -7,6 +7,7 @@ first_seen: 2026-04-25
 sources:
   - [[summary-ai-builders-digest-2026-04-25]]
   - [[summary-ai-builders-digest-2026-04-26]]
+  - [[summary-ai-builders-digest-2026-05-03]]
 related:
   - [[AI-Native]]
   - [[Software-Factory]]
@@ -50,3 +51,21 @@ Anthropic 工程博客进一步阐述了设计哲学：
 - **核心隐喻**：如 OS 虚拟化硬件般虚拟化 Agent 组件，为"尚未构想出的程序"设计系统
 
 来源：[[summary-ai-builders-digest-2026-04-26]]
+
+## 2026-05-03 更新：内置记忆功能
+
+Claude 宣布为 Managed Agents 推出**内置记忆功能**：
+
+- **跨会话学习**：Agent 可以从每个会话中学习
+- **可导出文件**：开发者可以导出和管理记忆
+- **API 完全控制**：通过 API 完全控制
+
+### 企业应用案例
+
+| 公司 | 应用 | 效果 |
+|------|------|------|
+| Netflix | 跨会话传递洞察 | 复杂洞察可持续传递 |
+| Rakuten | 任务型 Agent 错误减少 | 首轮错误降低 **97%** |
+| Wisedocs | 文档验证管道 | 加速 30% |
+
+来源：[[summary-ai-builders-digest-2026-05-03]]
