@@ -1,10 +1,16 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 # 活动日志
+
+## 2026-05-05
+- [07:30] 摄取简报：AI领域重要动态2026-05-05（SpaceX收购Cursor、9秒删库事件、Figure AI进工厂、Anthropic 9000亿估值、GPT-5.5发布）
+- [07:30] 创建来源摘要：wiki/sources/summary-2026-05-05.md
+- [07:30] 更新概念页面：AI-Coding（新增SpaceX收购Cursor+删库事件+GPT-5.5）、具身智能（新增Figure AI进工厂）
+- [07:30] 更新实体页面：Figure-03（新增进工厂信息）
 
 ## 2026-05-04
 - [12:00] 摄取简报：AI Builders Digest 2026-05-04（11 builders, 23 tweets + 1 podcast + 1 blog，中英双语）
