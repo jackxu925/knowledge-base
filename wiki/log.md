@@ -7,6 +7,12 @@ updated: 2026-05-04
 # 活动日志
 
 ## 2026-05-04
+- [12:00] 摄取简报：AI Builders Digest 2026-05-04（11 builders, 23 tweets + 1 podcast + 1 blog，中英双语）
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-04.md
+- [12:00] 创建实体页面：Greg Brockman、OpenAI
+- [12:00] 创建概念页面：Scaling-Laws（扩展定律）、Agent-Architecture（Agent 架构）
+- [12:00] 更新实体页面：Anthropic（Managed Agents 发布）
+- [12:00] 更新概念页面：AI-Coding（Agent 架构新趋势）
 - [07:30] 摄取简报：AI领域重要动态2026-05-04（Meta收购Assured Robot Intelligence、北京车展物理AI、Cursor删库事件、Kimi K3发布、2026 AI编程工具格局）
 - [07:30] 创建来源摘要：wiki/sources/summary-2026-05-04.md
 - [07:30] 创建实体页面：Kimi K3
