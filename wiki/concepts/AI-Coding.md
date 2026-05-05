@@ -22,6 +22,8 @@ sources:
   - [[summary-ai-ai-2026-05-02]]
   - [[summary-2026-05-03]]
   - [[summary-2026-05-04]]
+  - [[summary-2026-05-05]]
+  - [[summary-ai-daily-2026-05-06]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]

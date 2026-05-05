@@ -6,6 +6,14 @@ updated: 2026-05-05
 
 # 活动日志
 
+## 2026-05-06
+- [07:30] 摄取简报：AI领域重要动态2026-05-06（Claude Code源码泄露、Meta收购机器人公司、中国具身智能工业落地、Anthropic趋势报告、90+安全事件）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-daily-2026-05-06.md
+- [07:30] 更新概念页面：AI-Coding（Claude Code源码泄露）、具身智能（Meta收购+RobotPlusPlus）、创建AI-Agent-安全概念
+- [07:30] 创建实体页面：Claude-Code
+- [07:30] 更新实体页面：Meta（新增5月6日收购信息）
+- [07:30] Git push 到知识库
+
 ## 2026-05-05
 - [12:00] 摄取简报：AI Builders Digest 2026-04-29（12 builders, 29 tweets + 1 podcast，中英双语）- 缓存数据
 - [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-29.md
