@@ -7,6 +7,12 @@ updated: 2026-05-05
 # 活动日志
 
 ## 2026-05-05
+- [12:00] 摄取简报：AI Builders Digest 2026-04-29（12 builders, 29 tweets + 1 podcast，中英双语）- 缓存数据
+- [12:00] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-29.md
+- [12:00] 更新概念页面：AI-Coding（MCP、Codex）、Product-Management-Frameworks（盈利经验）
+- [12:00] Git push 到知识库
+
+## 2026-05-05
 - [07:30] 摄取简报：AI领域重要动态2026-05-05（SpaceX收购Cursor、9秒删库事件、Figure AI进工厂、Anthropic 9000亿估值、GPT-5.5发布）
 - [07:30] 创建来源摘要：wiki/sources/summary-2026-05-05.md
 - [07:30] 更新概念页面：AI-Coding（新增SpaceX收购Cursor+删库事件+GPT-5.5）、具身智能（新增Figure AI进工厂）

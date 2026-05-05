@@ -2,62 +2,66 @@
 type: source
 title: "AI Builders Digest 2026-04-29"
 created: 2026-04-29
-updated: 2026-04-29
-related: [[Follow-Builders]], [[Agent-Led-Growth]], [[OpenAI-Microsoft-Partnership]], [[Single-Agent-Orchestration]]
+updated: 2026-05-05
+related: [[AI-代理]], [[Agent-Led-Growth]], [[MCP]], [[AI-Coding]]
 confidence: high
 ---
 
-# Source Summary: AI Builders Digest — 2026-04-29
+# AI Builders Digest 2026-04-29
 
-**Source**: `raw/news/ai-builders-digest-2026-04-29.md`
-**Origin**: Follow-Builders automation (X/Twitter + Training Data podcast)
-**Coverage Period**: 2026-04-27 ~ 2026-04-28
-**Builders**: 12 | **Tweets**: 29 | **Podcasts**: 1
+**Date:** April 29, 2026
+**Sources:** X/Twitter, YouTube Podcasts
+**Builders:** 12
+**Tweets:** 29
+**Podcast Episodes:** 1
 
-## Headlines
+## Key Themes / 关键主题
 
-### Sam Altman: OpenAI Multi-Cloud Breakthrough
-OpenAI 更新 Microsoft 合作关系，保留 Azure 作为主要云合作伙伴但获得**跨所有云平台提供产品服务的能力**。协议延续模型供应至 2032 年。这是 OpenAI 企业战略的分水岭时刻。同时大力推广 $20 Codex 方案（7700 赞）。
+### 1. Agent-Led Growth (代理主导的增长)
 
-### Matt Turck: SV vs Enterprise Perception Gap
-捕捉到当前市场最重要的结构性观察：**硅谷的 AI 叙事与全球 200 强现实之间的巨大鸿沟**。SV 看到 agent 运行一切；企业看到的是两年前 AI 聊天零产出的失望。对任何面向企业的 AI 公司而言是关键的市场进入警告。
+James Cadwallader (ProFound CEO) discusses the shift from traditional SEO to agent-led growth. AI agents are becoming central to purchasing decisions, requiring marketers to adapt to a new paradigm where AI influences buyer behavior.
 
-### ProFound / Agent-Led Growth (ALG) Deep Dive
-Training Data 播客深度采访 ProFound CEO James Cadwallader。核心论点：营销正在从 SEO（为算法+人类优化）转向 ALG（纯为 agent 优化）。Agent 爬取网页时使用 100 倍于人类的表面积。**死互联网可能在 3 年内到来**。未来广告 = 系统提示词。每个 AI 实验室最终将垂直整合社交网络。
+James Cadwallader（ProFound CEO）讨论了从传统 SEO 到代理主导的增长的转变。AI 代理正在成为购买决策的核心，要求营销人员适应 AI 影响买家行为的新范式。
 
-### Peter Steinberger: Agent Uses Browser to Bypass GitHub Rate Limit
-当 GitHub API 被限流时，**Codex agent 打开浏览器模拟点击来绕过限制**，并自动在评论框输入内容关闭 issue。"浏览器即 API"成为真实模式。
+### 2. AI Coding Tools (AI 编码工具)
 
-### Zara Zhang: Single-Agent Orchestration Pattern
-最先进的 AI 用户每天只与 **1 个 agent** 交互，由该 agent 在底层分配任务给子 agent。未来不是多 agent 控制面板，而是单一主界面配合智能路由。
+- **Sam Altman** highlights that Codex with the $20 plan is a great deal
+- **Peter Steinberger** showcases how Codex can work around GitHub rate limits by controlling the browser
+- **Amjad Masad** emphasizes Replit's vertical integration advantages in agent production
 
-### Amjad Masad: Replit Speedrun + Vertical Integration
-20 位构建者、8 周赚取首美元的加速计划。强调 Replit 是唯一具备完整 agent 生产隔离能力的平台，垂直整合优势持续复合增长。
+- Sam Altman 强调 20 美元计划的 Codex 非常划算
+- Peter Steinberger 展示 Codex 如何通过控制浏览器来绕过 GitHub 速率限制
+- Amjad Masad 强调 Replit 在代理生产中的垂直整合优势
 
-### Dan Shipper: Software as New Media
-**代码趋近零边际成本时，软件变成媒体生意。** 竞争护城河从工程能力转向分发和受众。
+### 3. Single Agent Orchestration (单一代理编排)
 
-### Peter Yang: API/MCP Gap + Solo Founder Playbook
-需要 API/MCP 的产品清单（银行、政府、医疗门户）。个人 AI 创业者 $1M+/月经验：首日收费、$50-100 定价甜蜜点、流失率 <20%、跟随意外用户信号。
+**Zara Zhang** observes that the most sophisticated AI users talk to just ONE agent daily, which serves as the overall orchestrator that assigns tasks to subagents.
 
-### Aaron Levie: Enterprise AI Integration Complexity
-企业 AI 成功 = 技术能力 × 组织集成复杂度。延续 Gell-Mann 失忆症框架。
+Zara Zhang 观察到，最复杂的 AI 用户每天只与一个代理对话，该代理作为整体编排器向子代理分配任务。
 
-### Garry Tan: GStack with Claude Code Built In
-YC 的 GStack 内置 Claude Code CLI，支持远程浏览器控制。同时反击反科技情绪。
+### 4. The Valley vs Enterprise Gap (硅谷与企业差距)
 
-### Aditya Agarwal: Bevel 3.0 Health Companion
-健康应用从数据追踪仪表盘转向 AI 智能伴侣。
+**Matt Turck** points out the massive gap between Silicon Valley's AI enthusiasm and Global 2000's skepticism - companies spent money on AI but see little productivity gains.
 
-### Nikunj Kothari: Dawn Community for Ex-Founders
-针对前创业者的社区。难题即使接近 AGI 依然混乱。
+Matt Turck 指出硅谷对 AI 的热情与全球 2000 强企业的怀疑之间的巨大差距——公司在 AI 上投入资金但收效甚微。
 
-## Key Themes This Cycle
+### 5. Monetization Lessons (盈利经验)
 
-1. **Enterprise Adoption Chasm**: SV hype vs Fortune 2000 skepticism is the defining market dynamic
-2. **Agent Infrastructure Maturation**: Browser workarounds, CI for agents, production isolation
-3. **Multi-Cloud as Competitive Weapon**: OpenAI's Microsoft partnership evolution
-4. **ALG / AEO replacing SEO**: Marketing built for agents, not humans
-5. **Single-Agent UX Pattern**: One interface, invisible orchestration underneath
-6. **Code → Media**: Zero-marginal-cost code changes software industry structure
-7. **Dead Internet Timeline**: 3-year horizon for agent-only web consumption scenario
+**Peter Yang** shares Tibo Maker's lessons: charge from day one, follow user signals, price at $50-100/month, keep churn below 20%, build SEO pages.
+
+Peter Yang 分享 Tibo Maker 的经验：从第一天开始收费，跟随用户信号，定价 50-100 美元/月，保持流失率低于 20%，构建 SEO 页面。
+
+## Notable Quotes / 值得注意的引用
+
+> "In a world where code is cheap to produce, software is the new media" — Dan Shipper
+>
+> "在代码生产成本低廉的世界里，软件是新的媒体" — Dan Shipper
+
+> "There's a community for every stage of starting a company. There isn't one for what comes after." — Nikunj Kothari
+>
+> "创业的每个阶段都有一个社区，但没有关于创业之后会发生什么的社区。" — Nikunj Kothari
+
+## Sources / 来源
+
+- Training Data Podcast: https://www.youtube.com/watch?v=RyTwRCKeDo4
+- X/Twitter: 12 builders, 29 tweets
