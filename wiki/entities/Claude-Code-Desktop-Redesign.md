@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Claude Code Desktop Redesign
 aliases: []
@@ -11,7 +12,9 @@ related:
   - [[Claude Enterprise]]
   - [[Claude Code]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Claude Code Desktop Redesign
 

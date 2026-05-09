@@ -1,10 +1,16 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-05
+updated: 2026-05-09
 ---
 
 # 活动日志
+
+## 2026-05-09
+- [21:55] 摄取文章：Anthropic负责人：AI Agent 正在重写企业工作流（来源：微信文章）
+- [21:55] 创建来源摘要：wiki/sources/anthropic-ai-agent-rewriting-enterprise-workflow.md
+- [21:55] 创建概念页面：[[agent-primitives]]（平台原语）、[[team-agent-collaboration]]（团队Agent协作）
+- [21:55] 更新仪表盘 wiki/index.md
 
 ## 2026-05-06
 - [07:30] 摄取简报：AI领域重要动态2026-05-06（Claude Code源码泄露、Meta收购机器人公司、中国具身智能工业落地、Anthropic趋势报告、90+安全事件）

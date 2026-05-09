@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Knowledge Model"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Knowledge Model
 
 **标签：** #Knowledge-Management #Agent-Memory #Information-Architecture #GBrain

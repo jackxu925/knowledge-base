@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Agent Workflow（智能体工作流）"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Agent Workflow（智能体工作流）
 
 **定义**：将复杂知识工作拆解为一系列相互衔接、带有明确输入输出和方法论护栏的智能体参与阶段，使 AI 从结果层的"写作助手"进入工作过程的中段和前段。

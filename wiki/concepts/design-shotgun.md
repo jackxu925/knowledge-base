@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Design Shotgun"
 description: "一次生成多个设计方向供人选择，AI 负责扩展可能性，人负责品味和取舍"
 aliases: ["并行设计", "Multi-Design Generation"]
+updated: 2026-05-03
 ---
+
 
 # Design Shotgun
 

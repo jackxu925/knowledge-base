@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Tool Search"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Tool Search
 
 **标签：** #MCP #Optimization #Token-Efficiency #Agent

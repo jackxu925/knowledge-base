@@ -3,5 +3,6 @@
   "templater-obsidian",
   "dataview",
   "obsidian-git",
-  "advanced-canvas"
+  "advanced-canvas",
+  "notebook-navigator"
 ]

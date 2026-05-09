@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: "Figure 03"
 aliases: []
@@ -10,7 +11,9 @@ related:
   - [[Figure AI]]
   - [[具身智能]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Figure 03
 

@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Research Preview"
 description: "实验性产品发布模式，用模糊承诺替代刚性 roadmap，适应 AI 时代快速变化的技术环境"
 aliases: ["实验性发布", "Research Preview Mode"]
+updated: 2026-05-03
 ---
+
 
 # Research Preview
 

@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: "MagicLab"
 aliases: []
@@ -13,7 +14,9 @@ related:
   - [[Magic-Mix]]
   - [[Physical-AI]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # MagicLab
 

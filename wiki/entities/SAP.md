@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: SAP
 aliases: [Systems Applications Products, Philipp Herzig]
@@ -13,7 +14,9 @@ related:
   - [[Managed Agents]]
   - [[Jevons Paradox]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # SAP
 

@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Capability Abstraction（能力抽象）"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Capability Abstraction（能力抽象）
 
 **定义**：围绕工作中稳定的能力结构（如研究整理、需求定义、优先级调整）来组织技能和流程，而非绑定具体的工具品牌或文档格式。

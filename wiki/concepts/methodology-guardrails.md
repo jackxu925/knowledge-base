@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Methodology Guardrails（方法论护栏）"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Methodology Guardrails（方法论护栏）
 
 **定义**：将成熟的产品方法论和协作框架嵌入智能体工作流，为模型推理提供判断边界，防止泛化、堆砌或跳步。

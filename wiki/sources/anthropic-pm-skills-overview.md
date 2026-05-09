@@ -1,3 +1,11 @@
+---
+type: source
+title: "Anthropic PM Skills 全景解析"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Anthropic PM Skills 全景解析
 
 **类型：** 技术博客 / 产品管理方法论

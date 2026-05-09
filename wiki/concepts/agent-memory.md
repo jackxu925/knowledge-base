@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Agent Memory"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Agent Memory
 
 **标签：** #Agent #Memory #Knowledge-System #Persistent-State #GBrain

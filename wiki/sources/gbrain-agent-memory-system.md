@@ -1,3 +1,11 @@
+---
+type: source
+title: "GBrain：AI Agent 持久记忆系统"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # GBrain：AI Agent 持久记忆系统
 
 **类型：** 技术博客 / 开源项目介绍

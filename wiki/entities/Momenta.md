@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Momenta
 aliases: []
@@ -10,7 +11,9 @@ related:
   - [[具身智能]]
   - [[Physical-AI]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Momenta
 

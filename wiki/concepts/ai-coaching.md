@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "AI Coaching"
 description: "使用 AI 作为个人教练，在每次会议后进行反思和指导"
 aliases: ["AI Mentor", "AI Reflection"]
+updated: 2026-05-03
 ---
+
 
 # AI Coaching
 

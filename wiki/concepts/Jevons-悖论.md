@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Jevons 悖论
 aliases: [杰文斯悖论]
@@ -15,7 +16,9 @@ related:
   - [[10x-Engineer]]
   - [[Token-Maxing]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # Jevons 悖论（杰文斯悖论）
 

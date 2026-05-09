@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: AI 编排操作系统
 aliases: []
@@ -13,7 +14,9 @@ related:
   - [[X-Native Apps]]
 confidence: high
 status: active
+updated: 2026-05-03
 ---
+
 
 # AI 编排操作系统
 

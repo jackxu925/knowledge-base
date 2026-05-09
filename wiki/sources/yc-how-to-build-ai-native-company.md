@@ -1,3 +1,11 @@
+---
+type: source
+title: "YC: How To Build A Company With AI From The Ground Up"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # YC: How To Build A Company With AI From The Ground Up
 
 **类型：** 视频 / 创业方法论

@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: 人类中间件
 aliases: [Human Middleware]
@@ -12,7 +13,9 @@ related:
   - [[DRRI]]
   - [[开环系统]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # 人类中间件（Human Middleware）
 

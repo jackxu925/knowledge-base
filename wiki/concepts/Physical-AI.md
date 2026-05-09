@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Physical AI
 aliases: [物理 AI, 物理人工智能]
@@ -14,7 +15,9 @@ related:
   - [[Momenta]]
   - [[AI-Native]]
 status: emerging
+updated: 2026-05-03
 ---
+
 
 # Physical AI（物理 AI）
 

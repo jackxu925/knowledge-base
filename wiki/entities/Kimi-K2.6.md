@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Kimi K2.6
 aliases: []
@@ -11,7 +12,9 @@ related:
   - [[AI Coding]]
   - [[GPT-5.5]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Kimi K2.6
 

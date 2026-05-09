@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Queryable
 aliases: [可查询的, Legible, 可读的]
@@ -11,7 +12,9 @@ related:
   - [[闭环系统]]
   - [[Artifact]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # Queryable / Legible（可查询的 / 可读的）
 

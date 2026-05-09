@@ -1,3 +1,11 @@
+---
+type: concept
+title: "MCP (Model Context Protocol)"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # MCP (Model Context Protocol)
 
 **标签：** #MCP #Protocol #Agent #Anthropic #Standard

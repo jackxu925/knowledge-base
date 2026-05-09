@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: xAI
 aliases: [xAI Corp, X.AI]
@@ -11,7 +12,9 @@ related:
   - [[Cursor]]
   - [[GPT-5.5]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # xAI
 

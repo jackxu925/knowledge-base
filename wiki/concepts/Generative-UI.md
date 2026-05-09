@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Generative UI
 aliases: [生成式界面, 动态UI]
@@ -11,7 +12,9 @@ related:
   - [[Post-Prompting World]]
   - [[AI-Native]]
 status: emerging
+updated: 2026-05-03
 ---
+
 
 # Generative UI（生成式界面）
 

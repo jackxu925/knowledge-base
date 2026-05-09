@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Cloudflare MCP Server"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Cloudflare MCP Server
 
 **标签：** #MCP #Cloudflare #Code-Orchestration #Reference-Implementation

@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: ATEC
 aliases: [先进技术探索社区, ATEC2026]
@@ -8,7 +9,9 @@ sources:
 related:
   - [[具身智能]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # ATEC（先进技术探索社区）
 

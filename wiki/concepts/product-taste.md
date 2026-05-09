@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Product Taste"
 description: "工程师对产品判断的能力——知道什么值得做、什么不值得做，在 AI 时代成为比编码能力更稀缺的竞争力"
 aliases: ["产品品味", "Product Judgment"]
+updated: 2026-05-03
 ---
+
 
 # Product Taste
 

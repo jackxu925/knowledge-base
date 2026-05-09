@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: 闭环系统
 aliases: [Closed Loop, 闭环]
@@ -12,7 +13,9 @@ related:
   - [[Artifact]]
   - [[Queryable]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # 闭环系统（Closed Loop）
 

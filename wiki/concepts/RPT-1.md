@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: RPT-1
 aliases: [Relational Pretrained Transformers, 关系预训练Transformer]
@@ -11,7 +12,9 @@ related:
   - [[Managed Agents]]
   - [[Generative UI]]
 status: emerging
+updated: 2026-05-03
 ---
+
 
 # RPT-1（Relational Pretrained Transformers）
 

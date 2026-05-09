@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Software Factory"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Software Factory
 
 **标签：** #AI-Native #Engineering #TDD #Agent #Code-Generation

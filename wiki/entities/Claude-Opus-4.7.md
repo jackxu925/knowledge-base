@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: "Claude Opus 4.7"
 aliases: []
@@ -11,7 +12,9 @@ related:
   - [[AI-Coding]]
   - [[Claude Sonnet 4.6]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Claude Opus 4.7
 

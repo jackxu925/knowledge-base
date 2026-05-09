@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Agent-Ready Product"
 description: "为 AI agent 访问而设计的产品，APIs 和 MCPs 成为主要接口而非 GUI"
 aliases: ["Agent-Native", "Agent-First"]
+updated: 2026-05-03
 ---
+
 
 # Agent-Ready Product
 

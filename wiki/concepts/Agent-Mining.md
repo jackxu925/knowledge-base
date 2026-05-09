@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Agent Mining
 aliases: [代理挖掘]
@@ -11,7 +12,9 @@ related:
   - [[RPT-1]]
   - [[AI-Native]]
 status: emerging
+updated: 2026-05-03
 ---
+
 
 # Agent Mining（代理挖掘）
 

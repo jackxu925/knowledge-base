@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Product Management Frameworks"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Product Management Frameworks
 
 **标签：** #Product-Management #Framework #Decision-Making #Prioritization

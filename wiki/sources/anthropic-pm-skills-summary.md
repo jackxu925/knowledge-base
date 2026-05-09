@@ -1,3 +1,11 @@
+---
+type: source
+title: "Anthropic Product Management Skills 总结：从单点技能到完整链路"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Anthropic Product Management Skills 总结：从单点技能到完整链路
 
 ## 来源

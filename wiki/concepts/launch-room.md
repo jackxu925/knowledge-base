@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Launch Room"
 description: "常驻的自动化发布流水线，工程师贴功能后文档/市场/开发者关系自动接入，PM 搭建但不运行在链路上"
 aliases: ["发布流水线", "Launch Pipeline"]
+updated: 2026-05-03
 ---
+
 
 # Launch Room
 

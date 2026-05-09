@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: SpaceX
 aliases: [Space Exploration Technologies Corp]
@@ -9,7 +10,9 @@ related:
   - [[Cursor]]
   - [[AI Coding]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # SpaceX
 

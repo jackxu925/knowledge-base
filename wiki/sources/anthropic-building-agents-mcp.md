@@ -1,3 +1,11 @@
+---
+type: source
+title: "Anthropic: Building Agents with MCP"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Anthropic: Building Agents with MCP
 
 **类型：** 官方博客 / 技术架构

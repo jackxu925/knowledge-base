@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Capability-Oriented Abstraction"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Capability-Oriented Abstraction
 
 **标签：** #Architecture #Agent-Design #Connector #Skill-System

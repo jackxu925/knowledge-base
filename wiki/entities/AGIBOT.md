@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: AGIBOT
 aliases: [智元机器人, 智元]
@@ -9,7 +10,9 @@ related:
   - [[具身智能]]
   - [[AI Coding]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # AGIBOT（智元机器人）
 

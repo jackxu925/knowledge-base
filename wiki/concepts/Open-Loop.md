@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: 开环系统
 aliases: [Open Loop, 开环]
@@ -11,7 +12,9 @@ related:
   - [[AI Native]]
   - [[人类中间件]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # 开环系统（Open Loop）
 

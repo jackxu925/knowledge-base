@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: OpenAI Codex
 aliases: [Codex, OpenAI Codex CLI]
@@ -10,7 +11,9 @@ related:
   - [[Cursor]]
   - [[OpenAI]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # OpenAI Codex
 

@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Claude Code Second Brain"
 description: "基于 Claude Code 的个人知识管理系统，通过 5 阶段方法论构建持久化的工作记忆"
 aliases: ["Second Brain", "Claude Second Brain", "Personal Knowledge System"]
+updated: 2026-05-03
 ---
+
 
 # Claude Code Second Brain
 

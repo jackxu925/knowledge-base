@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Adversarial Review"
 description: "让 agent 以对抗性角色审视方案，自动发现和修复漏洞，把返工和风险尽量在动手前暴露"
 aliases: ["对抗性评审", "Red Team Review"]
+updated: 2026-05-03
 ---
+
 
 # Adversarial Review
 

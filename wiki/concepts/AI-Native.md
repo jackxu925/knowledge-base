@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: AI Native
 aliases: [AI 原生]
@@ -12,7 +13,9 @@ related:
   - [[Token Maxing]]
   - [[人类中间件]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # AI Native（AI 原生）
 

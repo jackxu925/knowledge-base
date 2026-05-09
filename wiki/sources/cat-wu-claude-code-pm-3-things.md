@@ -1,4 +1,5 @@
 ---
+
 type: source
 title: "Claude Code 产品负责人 Cat Wu：AI 时代 PM 该做的 3 件事"
 url: https://mp.weixin.qq.com/s/n24YTITK7QglrgDpKjslbg
@@ -6,7 +7,9 @@ author: 重音
 date: 2026-04-25
 platform: 微信公众号（The Next Q）
 topics: [AI PM, Product Management, Claude Code, Anthropic, Organization Design]
+updated: 2026-05-03
 ---
+
 
 # Claude Code 产品负责人 Cat Wu：AI 时代 PM 该做的 3 件事
 

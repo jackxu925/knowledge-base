@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "GStack"
 description: "Gary Tan 构建的 agent 脚手架框架，核心理念是 thin harness + fat skills，把 agent 当作工程团队管理"
 aliases: ["Agent Scaffold", "AI Engineering Framework"]
+updated: 2026-05-03
 ---
+
 
 # GStack
 

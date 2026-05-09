@@ -1,7 +1,7 @@
 ---
 type: index
 title: "Wiki 主目录"
-updated: 2026-04-30
+updated: 2026-05-09
 ---
 
 # Wiki 主目录
@@ -17,7 +17,7 @@ updated: 2026-04-30
 
 ### 按集群
 - **AI 原生组织** — [[AI-Native]]、[[Software-Factory]]、[[Token-Maxing]]、[[Human-Middleware]]
-- **AI 编程** — [[AI-Coding]]、[[GPT-5.5]]、[[Kimi-K2.6]]、[[Cursor]]、[[Managed-Agents]]
+- **AI 编程** — [[AI-Coding]]、[[GPT-5.5]]、[[Kimi-K2.6]]、[[Cursor]]、[[Managed-Agents]]、[[agent-primitives]]、[[team-agent-collaboration]]
 - **具身智能** — [[具身智能]]、[[自变量机器人]]、[[WALL-B]]
 - **系统与架构** — [[Closed-Loop]]、[[Open-Loop]]、[[Artifact]]、[[Queryable]]、[[DRRI]]
 

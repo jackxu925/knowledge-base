@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: DeepSeek
 aliases: [深度求索]
@@ -13,7 +14,9 @@ related:
   - [[GPT-5.5]]
   - [[AI-Native]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # DeepSeek（深度求索）
 

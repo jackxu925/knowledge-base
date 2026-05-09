@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Hybrid Search"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Hybrid Search
 
 **标签：** #Search #Vector-Search #Keyword-Search #RRF #Agent

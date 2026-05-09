@@ -1,4 +1,5 @@
 ---
+
 type: source
 title: "YC CEO：如何让 Claude 为你的 AI 工程团队编写代码？"
 url: https://mp.weixin.qq.com/s/q94y3egNYQPEWFWd6Na2xg
@@ -7,7 +8,9 @@ date: 2026-04-27
 platform: 微信公众号（晚点再听LaterCast）
 original: Y Combinator / Gary Tan
 topics: [AI Coding, Claude Code, Agent Workflow, Software Factory, YC]
+updated: 2026-05-03
 ---
+
 
 # YC CEO：如何让 Claude 为你的 AI 工程团队编写代码？
 

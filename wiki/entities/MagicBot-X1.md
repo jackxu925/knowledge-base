@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: "MagicBot X1"
 aliases: []
@@ -11,7 +12,9 @@ related:
   - [[具身智能]]
   - [[MagicHand-H01]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # MagicBot X1
 

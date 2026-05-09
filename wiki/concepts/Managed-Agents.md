@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Managed Agents
 aliases: []
@@ -14,7 +15,9 @@ related:
   - [[Closed-Loop]]
   - [[Post-Prompting World]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Managed Agents
 

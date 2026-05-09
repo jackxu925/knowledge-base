@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: 千倍工程师
 aliases: [10x Engineer, 100x Engineer, 1000x Engineer, 万倍工程师]
@@ -12,7 +13,9 @@ related:
   - [[Token Maxing]]
   - [[AI Agent]]
 status: emerging
+updated: 2026-05-03
 ---
+
 
 # 千倍工程师 / 万倍工程师
 

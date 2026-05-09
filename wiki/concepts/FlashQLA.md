@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: FlashQLA
 aliases: [线性注意力加速, GDN 算子库]
@@ -10,7 +11,9 @@ related:
   - [[AI-Coding]]
   - [[Qwen]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # FlashQLA
 

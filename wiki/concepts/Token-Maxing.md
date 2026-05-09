@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Token Maxing"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Token Maxing
 
 **标签：** #AI-Native #Strategy #Cost #Efficiency #Organization

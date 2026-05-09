@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Agent Skill System"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Agent Skill System
 
 **标签：** #Agent #Skill #Workflow #Product-Management #Anthropic

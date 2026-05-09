@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: "ChatGPT Super App"
 aliases: []
@@ -12,7 +13,9 @@ related:
   - [[AI-Coding]]
   - [[Codex]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # ChatGPT Super App
 

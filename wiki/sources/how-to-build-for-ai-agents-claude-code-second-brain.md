@@ -1,4 +1,5 @@
 ---
+
 type: source
 title: "How to Build for AI Agents and a Claude Code Second Brain"
 url: https://creatoreconomy.so/p/how-to-build-for-ai-agents-and-a-claude-code-second-brain
@@ -6,7 +7,9 @@ author: Peter Yang (interviewer), Ryan Wiggins (Mercury VP of Product)
 date: 2026-04-22
 platform: Substack (Behind the Craft)
 topics: [AI Agents, Claude Code, Second Brain, MCP, Product Strategy]
+updated: 2026-05-03
 ---
+
 
 # How to Build for AI Agents and a Claude Code Second Brain
 

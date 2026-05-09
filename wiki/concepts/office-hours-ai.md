@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Office Hours (AI)"
 description: "agent 在写代码前先进行商业验证的流程，模仿 YC 合伙人常问的问题，把'我想做一个功能'改成'这个痛点有没有足够强的商业楔子'"
 aliases: ["AI Office Hours", "需求验证流程"]
+updated: 2026-05-03
 ---
+
 
 # Office Hours (AI)
 

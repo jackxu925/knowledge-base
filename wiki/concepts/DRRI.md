@@ -1,3 +1,11 @@
+---
+type: concept
+title: "DRRI (Directly Responsible Individual)"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # DRRI (Directly Responsible Individual)
 
 **标签：** #AI-Native #Management #Accountability #Organization #YC

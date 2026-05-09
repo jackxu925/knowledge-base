@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Sam Altman
 aliases: []
@@ -18,7 +19,9 @@ related:
   - [[AI-Native]]
   - [[OS Redesign]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Sam Altman
 

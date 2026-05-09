@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Anthropic
 aliases: []
@@ -13,7 +14,9 @@ related:
   - [[OpenAI]]
   - [[AI-Coding]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Anthropic
 

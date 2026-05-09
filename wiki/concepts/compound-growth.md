@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Compound Growth"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Compound Growth
 
 **标签：** #Knowledge #Growth #Agent #Learning #Long-term

@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Demis Hassabis
 aliases: []
@@ -12,7 +13,9 @@ related:
   - [[AGI]]
   - [[具身智能]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Demis Hassabis
 

@@ -1,9 +1,12 @@
 ---
+
 type: concept
 title: "Dual-Core Division"
 description: "按时间尺度而非职能切分的组织设计——3个月外负责愿景判断，3个月内负责落地执行"
 aliases: ["双核分工", "Time-Based Division", "Temporal Division"]
+updated: 2026-05-03
 ---
+
 
 # Dual-Core Division（双核分工）
 

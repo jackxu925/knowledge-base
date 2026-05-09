@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Programmatic Tool Calling"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Programmatic Tool Calling
 
 **标签：** #MCP #Optimization #Token-Efficiency #Code-Execution #Agent

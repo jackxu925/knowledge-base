@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Closed Loop System"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Closed Loop System
 
 **标签：** #AI-Native #Control-System #Feedback-Loop #Organization #Intelligence

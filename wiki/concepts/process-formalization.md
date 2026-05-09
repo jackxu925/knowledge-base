@@ -1,3 +1,11 @@
+---
+type: concept
+title: "Process Formalization（过程显式化）"
+created: 2026-05-03
+updated: 2026-05-03
+confidence: medium
+---
+
 # Process Formalization（过程显式化）
 
 **定义**：将工作中隐性的、依赖个人经验的中间判断过程，外显为可观察、可复用、可协作的结构化步骤。

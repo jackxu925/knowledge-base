@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: Cursor
 aliases: []
@@ -15,7 +16,9 @@ related:
   - [[GPT-5.5]]
   - [[Software-Factory]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Cursor
 

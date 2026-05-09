@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: "Magic-Mix"
 aliases: []
@@ -11,7 +12,9 @@ related:
   - [[具身智能]]
   - [[世界模型]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # Magic-Mix
 

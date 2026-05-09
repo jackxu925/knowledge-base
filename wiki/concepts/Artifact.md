@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: Artifact
 aliases: [产物]
@@ -11,7 +12,9 @@ related:
   - [[AI Native]]
   - [[Queryable]]
 status: stable
+updated: 2026-05-03
 ---
+
 
 # Artifact（产物）
 

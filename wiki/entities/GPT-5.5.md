@@ -1,4 +1,5 @@
 ---
+
 type: entity
 title: GPT-5.5
 aliases: []
@@ -16,7 +17,9 @@ related:
   - [[Kimi K2.6]]
   - [[Sam Altman]]
 status: active
+updated: 2026-05-03
 ---
+
 
 # GPT-5.5
 
