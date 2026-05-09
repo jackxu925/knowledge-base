@@ -1,10 +1,22 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-09
+updated: 2026-05-10
 ---
 
 # 活动日志
+
+## 2026-05-10
+- [07:30] 摄取简报：AI Builders Digest 2026-05-10（14 builders, 28 tweets + 1 podcast，中英双语）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-10.md
+- [07:30] 更新概念页面：AI-Coding（GPT-5.5、Cursor、Replit）、Product-Management-Frameworks（Jevons悖论）
+- [07:30] Git push 到知识库
+
+## 2026-05-10
+- [07:30] 摄取：AI Weekly News 2026年5月（AI Coding与具身智能方向）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05.md
+- [07:30] 更新概念页面：AI-Coding、具身智能（Tesla视觉碰撞预判）
+- [07:30] Git push 到知识库
 
 ## 2026-05-09
 - [21:55] 摄取文章：Anthropic负责人：AI Agent 正在重写企业工作流（来源：微信文章）

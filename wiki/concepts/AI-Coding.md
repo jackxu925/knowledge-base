@@ -24,6 +24,8 @@ sources:
   - [[summary-2026-05-04]]
   - [[summary-2026-05-05]]
   - [[summary-ai-daily-2026-05-06]]
+  - [[summary-ai-weekly-2026-05]]
+  - [[summary-ai-builders-digest-2026-05-10]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -34,7 +36,7 @@ related:
   - [[Energy Based Model]]
   - [[Agent Design Patterns]]
 status: active
-updated: 2026-05-04
+updated: 2026-05-10
 ---
 
 
