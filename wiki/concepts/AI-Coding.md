@@ -26,6 +26,7 @@ sources:
   - [[summary-ai-daily-2026-05-06]]
   - [[summary-ai-weekly-2026-05]]
   - [[summary-ai-builders-digest-2026-05-10]]
+  - [[summary-ai-builders-digest-2026-05-17]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -35,8 +36,9 @@ related:
   - [[Claude Code Auto Mode]]
   - [[Energy Based Model]]
   - [[Agent Design Patterns]]
+  - [[Codex-Native]]
 status: active
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 
 

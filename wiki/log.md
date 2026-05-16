@@ -7,7 +7,12 @@ updated: 2026-05-16
 # 活动日志
 
 ## 2026-05-17
-- [07:30] 摄取：AI 资讯周报 2026年5月10日-5月17日（AI Coding与具身智能方向，10条）
+- [07:30] 摄取：AI Builders Digest 2026-05-17（14 builders, 34 tweets，中英双语）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-17.md
+- [07:30] 更新概念页面：AI-Coding（Agent工作流）、Codex-Native（新范式）
+- [07:30] Git push 到知识库
+
+## 2026-05-17
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05-10-to-2026-05-17.md
 - [07:30] 更新概念页面：AI-Coding、具身智能
 - [07:30] Git push 到知识库
