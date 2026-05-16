@@ -2,17 +2,25 @@
 type: entity
 title: Claude Code
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-16
 related:
   - [[AI-Coding]]
   - [[AI-Agent-安全]]
   - [[Anthropic]]
+  - [[Founder-OS]]
 confidence: high
 ---
 
 # Claude Code
 
 Anthropic 开发的 AI 编程 CLI 工具，在代码理解和大型项目处理方面表现优异。
+
+## Anthropic 官方定位（2026-05-14）
+
+来自 [[summary-claude-founders-playbook-2026-05-14]]：
+- **AI 原生初创公司的核心工具**，覆盖 MVP → Scale 全阶段
+- 产品矩阵中处于「生产级代码生成」定位
+- 与 Claude Chat（策略层）+ Claude Cowork（协作层）构成三层工具栈
 
 ## 源码泄露事件（2026-05）
 

@@ -7,13 +7,14 @@ defined_by: [[Diana Hu]] via [[Y Combinator]]
 first_seen: 2026-04-25
 sources:
   - [[yc-ai-native-team-guide]]
+  - [[summary-claude-founders-playbook-2026-05-14]]
 related:
   - [[闭环系统]]
   - [[Software Factory]]
   - [[Token Maxing]]
   - [[人类中间件]]
 status: stable
-updated: 2026-05-03
+updated: 2026-05-16
 ---
 
 
@@ -51,3 +52,12 @@ updated: 2026-05-03
 
 > "AI 不只是让团队生产力提升 20% 或 50%，而是彻底改变了公司应该如何被构建和运营。"
 > — Diana Hu, YC
+
+## Anthropic 视角的补充（2026-05-14）
+
+来自 [[summary-claude-founders-playbook-2026-05-14]]：
+
+- 创始人角色从**个人贡献者 → 协调者（Orchestrator）**
+- 四阶段框架：Idea → MVP → Launch → Scale，每阶段都有 AI 驱动的退出标准
+- 核心工具链：**Claude Chat / Claude Cowork / Claude Code** 按阶段匹配使用
+- 关键信号：未写过代码的创始人正在交付生产级应用、在扩招前实现营收

@@ -1,8 +1,11 @@
 ---
 title: "Anthropic负责人：AI Agent 正在重写企业工作流"
+updated: 2026-05-10
 source: https://mp.weixin.qq.com/s/ebKFqPYWBNS5wxZ5mXsVyA
 date: 2026-05-09
+updated: 2026-05-10
 type: source_summary
+updated: 2026-05-10
 tags: [AI Agent, Anthropic, Claude, 企业工作流]
 ---
 

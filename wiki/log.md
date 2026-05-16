@@ -1,10 +1,19 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-10
+updated: 2026-05-16
 ---
 
 # 活动日志
+
+## 2026-05-16
+- [15:11] 摄取文章：The Founder's Playbook: Building an AI-Native Startup（Anthropic, 2026-05-14）
+- [15:11] 保存原文：raw/articles/claude-founders-playbook-2026-05-14.md
+- [15:11] 创建来源摘要：wiki/sources/summary-claude-founders-playbook-2026-05-14.md
+- [15:11] 创建概念页面：Founder-OS（创始人操作系统，四阶段框架 Idea/MVP/Launch/Scale）
+- [15:11] 更新概念页面：AI-Native（新增 Anthropic 官方 Orchestrator 定义）
+- [15:11] 更新实体页面：Claude-Code（新增三层工具栈定位）
+- [15:11] Git push 到知识库
 
 ## 2026-05-10
 - [07:30] 摄取简报：AI Builders Digest 2026-05-10（14 builders, 28 tweets + 1 podcast，中英双语）
