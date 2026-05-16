@@ -6,6 +6,12 @@ updated: 2026-05-16
 
 # 活动日志
 
+## 2026-05-17
+- [07:30] 摄取：AI 资讯周报 2026年5月10日-5月17日（AI Coding与具身智能方向，10条）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05-10-to-2026-05-17.md
+- [07:30] 更新概念页面：AI-Coding、具身智能
+- [07:30] Git push 到知识库
+
 ## 2026-05-16
 - [15:11] 摄取文章：The Founder's Playbook: Building an AI-Native Startup（Anthropic, 2026-05-14）
 - [15:11] 保存原文：raw/articles/claude-founders-playbook-2026-05-14.md
