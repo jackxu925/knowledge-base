@@ -1,10 +1,19 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-16
+updated: 2026-05-20
 ---
 
 # 活动日志
+
+## 2026-05-20
+- [22:27] 摄取文章：产品经理如何把 Claude 变成自己的工作系统（Pawel / 晚点再听 LaterCast）
+- [22:27] 保存原文：raw/articles/latercast-pm-claude-work-system-2026-05-20.md
+- [22:27] 创建来源摘要：wiki/sources/summary-latercast-pm-claude-work-system-2026-05-20.md
+- [22:27] 创建概念页面：PM-Work-OS（产品经理工作操作系统，Skills三分法+Dispatch+CLAUDE.md路由）
+- [22:27] 创建概念页面：Claude-Dispatch（移动端多任务派发器）
+- [22:27] 更新概念页面：Founder-OS（新增 PM-Work-OS 延伸框架关联）
+- [22:27] Git push 到知识库
 
 ## 2026-05-17
 - [07:30] 摄取：AI Builders Digest 2026-05-17（14 builders, 34 tweets，中英双语）

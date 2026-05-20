@@ -69,9 +69,14 @@ Anthropic 在 2026 年提出的 AI 原生初创公司操作框架：将创始人
 - **HumanLayer** — 人机协作层
 - **Vulcan Technologies** — 工业级 AI 应用
 
+## 延伸框架
+
+→ [[PM-Work-OS]]：Pawel 面向 PM 提出的同类框架，强调 Skills 迭代 + 知识三分法 + Dispatch 移动调度
+
 ## 相关概念
 
 - [[AI-Native]] — 本框架的底层哲学
 - [[Agentic-Business]] — 企业层面的 agent 化趋势
 - [[Agent-Led-Growth]] — agent 驱动增长
 - [[Claude-Code]] — 实现 MVP 到 Scale 的核心工具
+- [[PM-Work-OS]] — 产品经理视角的工作系统框架
