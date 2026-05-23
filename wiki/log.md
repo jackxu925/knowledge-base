@@ -1,10 +1,17 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-20
+updated: 2026-05-24
 ---
 
 # 活动日志
+
+## 2026-05-24
+- [07:30] 摄取：AI 周报 2026年5月18日-5月24日（AI Coding + 具身智能方向）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05-18-to-2026-05-24.md
+- [07:30] 更新概念页面：AI-Coding（Codex跨设备、Squidler集成、飞书桥接、谷歌I/O工具链、Gartner魔力象限）
+- [07:30] 更新概念页面：具身智能（StepAudio实时语音、LongCat数字人）
+- [07:30] Git push 到知识库
 
 ## 2026-05-20
 - [22:27] 摄取文章：产品经理如何把 Claude 变成自己的工作系统（Pawel / 晚点再听 LaterCast）
