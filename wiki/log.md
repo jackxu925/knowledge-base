@@ -7,6 +7,12 @@ updated: 2026-05-24
 # 活动日志
 
 ## 2026-05-24
+- [07:30] 摄取：AI Builders Digest 2026-05-24（11 builders, 23 tweets, 1 podcast, 1 blog，中英双语）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-24.md
+- [07:30] 创建概念页面：World-Models（世界模型）、Claude-Managed-Agents（Jevons悖论安全观）、Jevons-Paradox-Security（零门槛市场）、Zero-Bar-Markets
+- [07:30] Git push 到知识库
+
+## 2026-05-24
 - [07:30] 摄取：AI 周报 2026年5月18日-5月24日（AI Coding + 具身智能方向）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05-18-to-2026-05-24.md
 - [07:30] 更新概念页面：AI-Coding（Codex跨设备、Squidler集成、飞书桥接、谷歌I/O工具链、Gartner魔力象限）

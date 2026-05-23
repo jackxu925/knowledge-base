@@ -27,6 +27,7 @@ sources:
   - [[summary-ai-weekly-2026-05]]
   - [[summary-ai-builders-digest-2026-05-10]]
   - [[summary-ai-builders-digest-2026-05-17]]
+  - [[summary-ai-builders-digest-2026-05-24]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -37,8 +38,9 @@ related:
   - [[Energy Based Model]]
   - [[Agent Design Patterns]]
   - [[Codex-Native]]
+  - [[Claude-Managed-Agents]]
 status: active
-updated: 2026-05-17
+updated: 2026-05-24
 ---
 
 

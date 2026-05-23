@@ -4,6 +4,7 @@ title: Codex-Native
 aliases: []
 defined_by: Dan Shipper (Every CEO)
 first_seen: 2026-05-17
+updated: 2026-05-17
 sources:
   - [[summary-ai-builders-digest-2026-05-17]]
 related:
