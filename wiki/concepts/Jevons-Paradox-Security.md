@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: "Jevons Paradox in Security (安全领域的 Jevons 悖论)"
 aliases: ["Jevons-Paradox", "Security-Engineer-Boom"]
@@ -7,7 +8,9 @@ first_seen: "2026-05-24"
 sources: [[AI-Builders-Digest-2026-05-24]]
 status: active
 confidence: high
+updated: 2026-05-24
 ---
+
 
 # Jevons Paradox in Security (安全领域的 Jevons 悖论)
 

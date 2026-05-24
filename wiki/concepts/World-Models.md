@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: "World Models (世界模型)"
 aliases: ["world-model"]
@@ -7,7 +8,9 @@ first_seen: "2026-05-24"
 sources: [[AI-Builders-Digest-2026-05-24]]
 status: active
 confidence: high
+updated: 2026-05-24
 ---
+
 
 # World Models (世界模型)
 

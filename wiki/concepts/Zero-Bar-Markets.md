@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: "Zero-Bar Markets (零门槛市场)"
 aliases: ["Zero-Bar-Market", "Bar-Is-Zero"]
@@ -7,7 +8,9 @@ first_seen: "2026-05-24"
 sources: [[AI-Builders-Digest-2026-05-24]]
 status: active
 confidence: high
+updated: 2026-05-24
 ---
+
 
 # Zero-Bar Markets (零门槛市场)
 

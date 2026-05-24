@@ -1,4 +1,5 @@
 ---
+
 type: concept
 title: "Claude Managed Agents"
 aliases: ["Managed Agents", "Anthropic Agents"]
@@ -7,7 +8,9 @@ first_seen: "2026-05-06"
 sources: [[AI-Builders-Digest-2026-05-24]]
 status: active
 confidence: high
+updated: 2026-05-24
 ---
+
 
 # Claude Managed Agents
 

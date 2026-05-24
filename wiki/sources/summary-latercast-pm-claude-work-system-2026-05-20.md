@@ -1,4 +1,5 @@
 ---
+
 type: source-summary
 title: "产品经理如何把 Claude 变成自己的工作系统（Pawel / 晚点再听 LaterCast）"
 source_url: https://mp.weixin.qq.com/s/RfkVvnc1_kB4lhvXWXjiGg
@@ -18,7 +19,9 @@ entities:
   - Pawel（PM skills marketplace 作者，GitHub 1万star）
   - Aakash Gupta
 confidence: high
+updated: 2026-05-24
 ---
+
 
 # 来源摘要：产品经理如何把 Claude 变成自己的工作系统
 
