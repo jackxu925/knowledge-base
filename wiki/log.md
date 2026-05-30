@@ -1,10 +1,17 @@
 ---
 type: log
 title: "活动日志"
-updated: 2026-05-24
+updated: 2026-05-31
 ---
 
 # 活动日志
+
+## 2026-05-31
+- [07:30] 摄取：AI 周报 2026年5月25日-5月31日（AI Coding + 具身智能方向，10条有价值资讯）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05-25-to-2026-05-31.md
+- [07:30] 创建概念页面：AI-Coding（Claude Code 80.8% Agent能力、Cursor 8 Agent并行、DeepSeek降价75%、谷歌I/O Agent时代）
+- [07:30] 更新概念页面：具身智能（《具身智能白皮书2026》、肢体转大脑、商业化加速）
+- [07:30] Git push 到知识库
 
 ## 2026-05-24
 - [07:30] 摄取：AI Builders Digest 2026-05-24（11 builders, 23 tweets, 1 podcast, 1 blog，中英双语）
