@@ -7,6 +7,13 @@ updated: 2026-05-31
 # 活动日志
 
 ## 2026-05-31
+- [07:30] 摄取：AI Builders Digest 2026-05-31（8 builders, 16 tweets, 1 podcast，中英双语）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-31.md
+- [07:30] 创建概念页面：Agent-Security（Onyx Security、AI Guardian、企业安全）、Salesforce-AI-Adoption（231天→13天）
+- [07:30] Git push 到知识库
+- [07:30] 创建概念页面：AI-Coding（Claude Code 80.8% Agent能力、Cursor 8 Agent并行、DeepSeek降价75%、谷歌I/O Agent时代）
+
+## 2026-05-31
 - [07:30] 摄取：AI 周报 2026年5月25日-5月31日（AI Coding + 具身智能方向，10条有价值资讯）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-05-25-to-2026-05-31.md
 - [07:30] 创建概念页面：AI-Coding（Claude Code 80.8% Agent能力、Cursor 8 Agent并行、DeepSeek降价75%、谷歌I/O Agent时代）
