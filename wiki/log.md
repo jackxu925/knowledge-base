@@ -10,6 +10,13 @@ updated: 2026-05-31
 - [07:30] 创建概念页面：Dynamic-Workflows（Claude 4.8动态工作流）
 - [07:30] Git push 到知识库
 
+## 2026-06-07
+- [07:30] 摄取：AI 周报 2026年6月1日-6月7日（AI Coding + 具身智能方向，10条有价值资讯）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-06-01-to-2026-06-07.md
+- [07:30] 更新概念页面：AI-Coding（GPT-5、Claude Opus 4.8、Qwen3.7-Plus、DeepSeek V4.1）
+- [07:30] 更新概念页面：具身智能（英伟达×宇树、Figure 03、国标实施、OpenAI Robotics）
+- [07:30] Git push 到知识库
+
 ## 2026-05-31
 - [07:30] 摄取：AI Builders Digest 2026-05-31（8 builders, 16 tweets, 1 podcast，中英双语）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-05-31.md

@@ -1,7 +1,7 @@
 ---
-
 type: concept
 title: AI Coding
+created: 2026-05-24
 aliases: [AI 编程]
 defined_by: []
 first_seen: 2026-04-25
@@ -28,6 +28,7 @@ sources:
   - [[summary-ai-builders-digest-2026-05-10]]
   - [[summary-ai-builders-digest-2026-05-17]]
   - [[summary-ai-builders-digest-2026-05-24]]
+  - [[summary-ai-weekly-2026-06-01-to-2026-06-07]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -41,8 +42,9 @@ related:
   - [[Claude-Managed-Agents]]
 status: active
 updated: 2026-05-24
+source: session
+confidence: medium
 ---
-
 
 # AI Coding（AI 编程）
 
@@ -217,3 +219,4 @@ AI Coding 正从"辅助补全"向"自主开发"演进：
 - [[Software-Factory]]：AI Coding 是 Software Factory 的核心实现方式
 - [[Token-Maxing]]：用 API 成本替代人力成本的经济逻辑
 - [[10x-Engineer]]：AI 使每个开发者都能达到 10x 效率
+
