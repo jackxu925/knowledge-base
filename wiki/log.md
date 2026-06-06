@@ -4,7 +4,11 @@ title: "活动日志"
 updated: 2026-05-31
 ---
 
-# 活动日志
+## 2026-06-07
+- [07:30] 摄取：AI Builders Digest 2026-06-07（中英双语，Web搜索获取）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-06-07.md
+- [07:30] 创建概念页面：Dynamic-Workflows（Claude 4.8动态工作流）
+- [07:30] Git push 到知识库
 
 ## 2026-05-31
 - [07:30] 摄取：AI Builders Digest 2026-05-31（8 builders, 16 tweets, 1 podcast，中英双语）
@@ -252,3 +256,9 @@ updated: 2026-05-31
 - [17:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-04-25.md
 - [17:30] 创建概念页面：具身智能、AI Coding、Managed Agents、Jevons 悖论、后提示词世界
 - [17:30] 创建实体页面：GPT-5.5、Cursor、月之暗面、自变量机器人、Sam Altman、Anthropic、Kimi K2.6
+
+## [2026-05-31] system-bootstrap | Upgraded vault to full LLM Wiki Agent protocol with AGENTS.md, manifests, scripts, schema/runtime pages, and Obsidian templates.
+
+## [2026-05-31] metadata-migration | Added required frontmatter fields to legacy wiki pages without changing body content.
+
+## [2026-05-31] provenance-migration | Marked legacy non-hash source summaries as session-sourced until they are recompiled from manifest entries.
