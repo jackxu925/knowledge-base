@@ -1,4 +1,5 @@
 source_id,company,vendor,kind,filename,raw_rel_path,status,compiled_into,notes
+src_8a3c2d1b5e,,,document,ai-weekly-2026-06-08-to-2026-06-14.md,news/ai-weekly-2026-06-08-to-2026-06-14.md,new,,
 src_eb1707cca6,,,document,anthropic-ai-agent-rewriting-enterprise-workflow.md,articles/anthropic-ai-agent-rewriting-enterprise-workflow.md,new,,
 src_b9d242e16f,,,document,anthropic-building-agents-mcp.md,articles/anthropic-building-agents-mcp.md,new,,
 src_2619ad294b,,,document,anthropic-pm-skills-overview.md,articles/anthropic-pm-skills-overview.md,new,,

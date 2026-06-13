@@ -29,6 +29,7 @@ sources:
   - [[summary-ai-builders-digest-2026-05-17]]
   - [[summary-ai-builders-digest-2026-05-24]]
   - [[summary-ai-weekly-2026-06-01-to-2026-06-07]]
+  - [[summary-ai-weekly-2026-06-08-to-2026-06-14]]
 related:
   - [[GPT-5.5]]
   - [[Kimi K2.6]]
@@ -41,7 +42,7 @@ related:
   - [[Codex-Native]]
   - [[Claude-Managed-Agents]]
 status: active
-updated: 2026-05-24
+updated: 2026-06-14
 source: session
 confidence: medium
 ---

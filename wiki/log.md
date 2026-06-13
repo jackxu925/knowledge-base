@@ -4,6 +4,13 @@ title: "活动日志"
 updated: 2026-05-31
 ---
 
+## 2026-06-14
+- [07:30] 摄取：AI 周报 2026年6月8日-6月14日（AI Coding + 具身智能方向，10条有价值资讯）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-06-08-to-2026-06-14.md
+- [07:30] 更新概念页面：AI-Coding（MiMo Code、Cursor Bugbot、DiffusionGemma、MusaCoder、/architect、Fusion API）
+- [07:30] 更新概念页面：具身智能（CloudRobo、WEAVER）
+- [07:30] Git push 到知识库
+
 ## 2026-06-07
 - [07:30] 摄取：AI Builders Digest 2026-06-07（中英双语，Web搜索获取）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-06-07.md
