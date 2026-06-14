@@ -5,6 +5,14 @@ updated: 2026-05-31
 ---
 
 ## 2026-06-14
+- [07:30] follow-builders自动化任务执行
+- [07:30] 摄取：AI Builders Digest 2026-06-14（16 builders, 39 tweets, 1 podcast，中英双语）
+- [07:30] 创建来源摘要：wiki/sources/summary-ai-builders-digest-2026-06-14.md
+- [07:30] 创建概念页面：HarnessAgent（Vercel AI SDK 4.0统一编排抽象层）
+- [07:30] 更新manifests/raw_sources.csv
+- [07:30] Git push 到知识库
+
+## 2026-06-14
 - [07:30] 摄取：AI 周报 2026年6月8日-6月14日（AI Coding + 具身智能方向，10条有价值资讯）
 - [07:30] 创建来源摘要：wiki/sources/summary-ai-weekly-2026-06-08-to-2026-06-14.md
 - [07:30] 更新概念页面：AI-Coding（MiMo Code、Cursor Bugbot、DiffusionGemma、MusaCoder、/architect、Fusion API）
